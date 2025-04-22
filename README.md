@@ -1,2 +1,2 @@
 # retail-demand-forecasting
-Forecasting retail product demand and optimising inventory insights using Python and Power BI.
+A data-driven retail demand forecasting project using Python and Power BI. Explores order trends, predicts product demand, and visualises warehouse-level insights to support inventory and supply chain decisions.
