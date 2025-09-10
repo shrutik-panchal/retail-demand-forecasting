@@ -1,0 +1,1233 @@
+region,date,target,yhat,model,horizon_day
+Canada,2015-12-31,quantity,1.5425,RandomForestRegressor,1
+Canada,2016-01-01,quantity,2.01,RandomForestRegressor,2
+Canada,2016-01-02,quantity,1.7775,RandomForestRegressor,3
+Canada,2016-01-03,quantity,1.8575,RandomForestRegressor,4
+Canada,2016-01-04,quantity,0.1075,RandomForestRegressor,5
+Canada,2016-01-05,quantity,2.67,RandomForestRegressor,6
+Canada,2016-01-06,quantity,0.635,RandomForestRegressor,7
+Canada,2016-01-07,quantity,0.285,RandomForestRegressor,8
+Canada,2016-01-08,quantity,0.3025,RandomForestRegressor,9
+Canada,2016-01-09,quantity,0.2875,RandomForestRegressor,10
+Canada,2016-01-10,quantity,0.245,RandomForestRegressor,11
+Canada,2016-01-11,quantity,0.1875,RandomForestRegressor,12
+Canada,2016-01-12,quantity,0.85,RandomForestRegressor,13
+Canada,2016-01-13,quantity,5.0975,RandomForestRegressor,14
+Canada,2016-01-14,quantity,0.2125,RandomForestRegressor,15
+Canada,2016-01-15,quantity,0.8775,RandomForestRegressor,16
+Canada,2016-01-16,quantity,0.2325,RandomForestRegressor,17
+Canada,2016-01-17,quantity,0.3175,RandomForestRegressor,18
+Canada,2016-01-18,quantity,0.2225,RandomForestRegressor,19
+Canada,2016-01-19,quantity,0.74,RandomForestRegressor,20
+Canada,2016-01-20,quantity,3.0325,RandomForestRegressor,21
+Canada,2016-01-21,quantity,0.935,RandomForestRegressor,22
+Canada,2016-01-22,quantity,1.6975,RandomForestRegressor,23
+Canada,2016-01-23,quantity,1.4625,RandomForestRegressor,24
+Canada,2016-01-24,quantity,1.515,RandomForestRegressor,25
+Canada,2016-01-25,quantity,0.445,RandomForestRegressor,26
+Canada,2016-01-26,quantity,1.3825,RandomForestRegressor,27
+Canada,2016-01-27,quantity,3.7675,RandomForestRegressor,28
+Caribbean,2016-01-01,quantity,10.475,RandomForestRegressor,1
+Caribbean,2016-01-02,quantity,9.2725,RandomForestRegressor,2
+Caribbean,2016-01-03,quantity,6.6975,RandomForestRegressor,3
+Caribbean,2016-01-04,quantity,3.4725,RandomForestRegressor,4
+Caribbean,2016-01-05,quantity,8.035,RandomForestRegressor,5
+Caribbean,2016-01-06,quantity,8.5275,RandomForestRegressor,6
+Caribbean,2016-01-07,quantity,8.2325,RandomForestRegressor,7
+Caribbean,2016-01-08,quantity,5.6325,RandomForestRegressor,8
+Caribbean,2016-01-09,quantity,7.6525,RandomForestRegressor,9
+Caribbean,2016-01-10,quantity,8.3,RandomForestRegressor,10
+Caribbean,2016-01-11,quantity,2.735,RandomForestRegressor,11
+Caribbean,2016-01-12,quantity,13.385,RandomForestRegressor,12
+Caribbean,2016-01-13,quantity,9.0025,RandomForestRegressor,13
+Caribbean,2016-01-14,quantity,8.7725,RandomForestRegressor,14
+Caribbean,2016-01-15,quantity,7.395,RandomForestRegressor,15
+Caribbean,2016-01-16,quantity,7.755,RandomForestRegressor,16
+Caribbean,2016-01-17,quantity,7.8275,RandomForestRegressor,17
+Caribbean,2016-01-18,quantity,4.36,RandomForestRegressor,18
+Caribbean,2016-01-19,quantity,8.945,RandomForestRegressor,19
+Caribbean,2016-01-20,quantity,10.5075,RandomForestRegressor,20
+Caribbean,2016-01-21,quantity,10.3525,RandomForestRegressor,21
+Caribbean,2016-01-22,quantity,10.0525,RandomForestRegressor,22
+Caribbean,2016-01-23,quantity,9.825,RandomForestRegressor,23
+Caribbean,2016-01-24,quantity,7.83,RandomForestRegressor,24
+Caribbean,2016-01-25,quantity,4.6325,RandomForestRegressor,25
+Caribbean,2016-01-26,quantity,11.7875,RandomForestRegressor,26
+Caribbean,2016-01-27,quantity,11.225,RandomForestRegressor,27
+Caribbean,2016-01-28,quantity,10.07,RandomForestRegressor,28
+Central Africa,2016-01-01,quantity,4.0175,RandomForestRegressor,1
+Central Africa,2016-01-02,quantity,2.9175,RandomForestRegressor,2
+Central Africa,2016-01-03,quantity,3.16,RandomForestRegressor,3
+Central Africa,2016-01-04,quantity,1.7175,RandomForestRegressor,4
+Central Africa,2016-01-05,quantity,2.6275,RandomForestRegressor,5
+Central Africa,2016-01-06,quantity,3.3525,RandomForestRegressor,6
+Central Africa,2016-01-07,quantity,3.3075,RandomForestRegressor,7
+Central Africa,2016-01-08,quantity,2.9475,RandomForestRegressor,8
+Central Africa,2016-01-09,quantity,5.6025,RandomForestRegressor,9
+Central Africa,2016-01-10,quantity,6.8775,RandomForestRegressor,10
+Central Africa,2016-01-11,quantity,1.135,RandomForestRegressor,11
+Central Africa,2016-01-12,quantity,2.555,RandomForestRegressor,12
+Central Africa,2016-01-13,quantity,4.01,RandomForestRegressor,13
+Central Africa,2016-01-14,quantity,4.4275,RandomForestRegressor,14
+Central Africa,2016-01-15,quantity,4.5925,RandomForestRegressor,15
+Central Africa,2016-01-16,quantity,5.7325,RandomForestRegressor,16
+Central Africa,2016-01-17,quantity,4.56,RandomForestRegressor,17
+Central Africa,2016-01-18,quantity,0.8,RandomForestRegressor,18
+Central Africa,2016-01-19,quantity,2.5425,RandomForestRegressor,19
+Central Africa,2016-01-20,quantity,2.89,RandomForestRegressor,20
+Central Africa,2016-01-21,quantity,2.675,RandomForestRegressor,21
+Central Africa,2016-01-22,quantity,3.3975,RandomForestRegressor,22
+Central Africa,2016-01-23,quantity,3.185,RandomForestRegressor,23
+Central Africa,2016-01-24,quantity,3.0225,RandomForestRegressor,24
+Central Africa,2016-01-25,quantity,0.575,RandomForestRegressor,25
+Central Africa,2016-01-26,quantity,2.2375,RandomForestRegressor,26
+Central Africa,2016-01-27,quantity,2.3575,RandomForestRegressor,27
+Central Africa,2016-01-28,quantity,3.1525,RandomForestRegressor,28
+Central America,2016-01-01,quantity,26.4275,RandomForestRegressor,1
+Central America,2016-01-02,quantity,30.7075,RandomForestRegressor,2
+Central America,2016-01-03,quantity,20.63,RandomForestRegressor,3
+Central America,2016-01-04,quantity,5.17,RandomForestRegressor,4
+Central America,2016-01-05,quantity,19.89,RandomForestRegressor,5
+Central America,2016-01-06,quantity,16.5075,RandomForestRegressor,6
+Central America,2016-01-07,quantity,16.955,RandomForestRegressor,7
+Central America,2016-01-08,quantity,15.7525,RandomForestRegressor,8
+Central America,2016-01-09,quantity,15.32,RandomForestRegressor,9
+Central America,2016-01-10,quantity,10.51,RandomForestRegressor,10
+Central America,2016-01-11,quantity,5.7575,RandomForestRegressor,11
+Central America,2016-01-12,quantity,20.1225,RandomForestRegressor,12
+Central America,2016-01-13,quantity,18.81,RandomForestRegressor,13
+Central America,2016-01-14,quantity,17.37,RandomForestRegressor,14
+Central America,2016-01-15,quantity,16.835,RandomForestRegressor,15
+Central America,2016-01-16,quantity,13.9125,RandomForestRegressor,16
+Central America,2016-01-17,quantity,8.965,RandomForestRegressor,17
+Central America,2016-01-18,quantity,2.9225,RandomForestRegressor,18
+Central America,2016-01-19,quantity,16.855,RandomForestRegressor,19
+Central America,2016-01-20,quantity,16.005,RandomForestRegressor,20
+Central America,2016-01-21,quantity,15.66,RandomForestRegressor,21
+Central America,2016-01-22,quantity,14.8975,RandomForestRegressor,22
+Central America,2016-01-23,quantity,14.295,RandomForestRegressor,23
+Central America,2016-01-24,quantity,10.1675,RandomForestRegressor,24
+Central America,2016-01-25,quantity,7.72,RandomForestRegressor,25
+Central America,2016-01-26,quantity,16.9275,RandomForestRegressor,26
+Central America,2016-01-27,quantity,16.1025,RandomForestRegressor,27
+Central America,2016-01-28,quantity,16.5125,RandomForestRegressor,28
+Central US,2016-01-01,quantity,18.57,RandomForestRegressor,1
+Central US,2016-01-02,quantity,21.9925,RandomForestRegressor,2
+Central US,2016-01-03,quantity,28.815,RandomForestRegressor,3
+Central US,2016-01-04,quantity,5.5125,RandomForestRegressor,4
+Central US,2016-01-05,quantity,13.87,RandomForestRegressor,5
+Central US,2016-01-06,quantity,23.25,RandomForestRegressor,6
+Central US,2016-01-07,quantity,21.9425,RandomForestRegressor,7
+Central US,2016-01-08,quantity,17.9425,RandomForestRegressor,8
+Central US,2016-01-09,quantity,18.7675,RandomForestRegressor,9
+Central US,2016-01-10,quantity,18.755,RandomForestRegressor,10
+Central US,2016-01-11,quantity,9.4825,RandomForestRegressor,11
+Central US,2016-01-12,quantity,15.895,RandomForestRegressor,12
+Central US,2016-01-13,quantity,19.63,RandomForestRegressor,13
+Central US,2016-01-14,quantity,17.96,RandomForestRegressor,14
+Central US,2016-01-15,quantity,19.1325,RandomForestRegressor,15
+Central US,2016-01-16,quantity,20.04,RandomForestRegressor,16
+Central US,2016-01-17,quantity,17.945,RandomForestRegressor,17
+Central US,2016-01-18,quantity,8.955,RandomForestRegressor,18
+Central US,2016-01-19,quantity,13.9525,RandomForestRegressor,19
+Central US,2016-01-20,quantity,22.94,RandomForestRegressor,20
+Central US,2016-01-21,quantity,21.3525,RandomForestRegressor,21
+Central US,2016-01-22,quantity,17.4775,RandomForestRegressor,22
+Central US,2016-01-23,quantity,26.26,RandomForestRegressor,23
+Central US,2016-01-24,quantity,20.3925,RandomForestRegressor,24
+Central US,2016-01-25,quantity,14.6825,RandomForestRegressor,25
+Central US,2016-01-26,quantity,22.535,RandomForestRegressor,26
+Central US,2016-01-27,quantity,20.8925,RandomForestRegressor,27
+Central US,2016-01-28,quantity,20.245,RandomForestRegressor,28
+Eastern Africa,2016-01-01,quantity,2.6875,RandomForestRegressor,1
+Eastern Africa,2016-01-02,quantity,3.6725,RandomForestRegressor,2
+Eastern Africa,2016-01-03,quantity,1.82,RandomForestRegressor,3
+Eastern Africa,2016-01-04,quantity,2.9925,RandomForestRegressor,4
+Eastern Africa,2016-01-05,quantity,3.2675,RandomForestRegressor,5
+Eastern Africa,2016-01-06,quantity,2.8375,RandomForestRegressor,6
+Eastern Africa,2016-01-07,quantity,3.44,RandomForestRegressor,7
+Eastern Africa,2016-01-08,quantity,3.5025,RandomForestRegressor,8
+Eastern Africa,2016-01-09,quantity,3.665,RandomForestRegressor,9
+Eastern Africa,2016-01-10,quantity,2.5475,RandomForestRegressor,10
+Eastern Africa,2016-01-11,quantity,4.1575,RandomForestRegressor,11
+Eastern Africa,2016-01-12,quantity,4.9275,RandomForestRegressor,12
+Eastern Africa,2016-01-13,quantity,4.33,RandomForestRegressor,13
+Eastern Africa,2016-01-14,quantity,5.085,RandomForestRegressor,14
+Eastern Africa,2016-01-15,quantity,5.32,RandomForestRegressor,15
+Eastern Africa,2016-01-16,quantity,5.3575,RandomForestRegressor,16
+Eastern Africa,2016-01-17,quantity,3.39,RandomForestRegressor,17
+Eastern Africa,2016-01-18,quantity,4.4675,RandomForestRegressor,18
+Eastern Africa,2016-01-19,quantity,5.53,RandomForestRegressor,19
+Eastern Africa,2016-01-20,quantity,5.615,RandomForestRegressor,20
+Eastern Africa,2016-01-21,quantity,6.46,RandomForestRegressor,21
+Eastern Africa,2016-01-22,quantity,6.0925,RandomForestRegressor,22
+Eastern Africa,2016-01-23,quantity,6.39,RandomForestRegressor,23
+Eastern Africa,2016-01-24,quantity,4.7475,RandomForestRegressor,24
+Eastern Africa,2016-01-25,quantity,4.85,RandomForestRegressor,25
+Eastern Africa,2016-01-26,quantity,6.5375,RandomForestRegressor,26
+Eastern Africa,2016-01-27,quantity,6.4675,RandomForestRegressor,27
+Eastern Africa,2016-01-28,quantity,6.4025,RandomForestRegressor,28
+Eastern Asia,2016-01-01,quantity,12.8975,RandomForestRegressor,1
+Eastern Asia,2016-01-02,quantity,9.67,RandomForestRegressor,2
+Eastern Asia,2016-01-03,quantity,7.5425,RandomForestRegressor,3
+Eastern Asia,2016-01-04,quantity,0.42,RandomForestRegressor,4
+Eastern Asia,2016-01-05,quantity,7.0225,RandomForestRegressor,5
+Eastern Asia,2016-01-06,quantity,6.965,RandomForestRegressor,6
+Eastern Asia,2016-01-07,quantity,10.6425,RandomForestRegressor,7
+Eastern Asia,2016-01-08,quantity,13.205,RandomForestRegressor,8
+Eastern Asia,2016-01-09,quantity,17.7475,RandomForestRegressor,9
+Eastern Asia,2016-01-10,quantity,12.2175,RandomForestRegressor,10
+Eastern Asia,2016-01-11,quantity,1.405,RandomForestRegressor,11
+Eastern Asia,2016-01-12,quantity,8.8975,RandomForestRegressor,12
+Eastern Asia,2016-01-13,quantity,11.595,RandomForestRegressor,13
+Eastern Asia,2016-01-14,quantity,12.5625,RandomForestRegressor,14
+Eastern Asia,2016-01-15,quantity,15.18,RandomForestRegressor,15
+Eastern Asia,2016-01-16,quantity,11.93,RandomForestRegressor,16
+Eastern Asia,2016-01-17,quantity,11.6775,RandomForestRegressor,17
+Eastern Asia,2016-01-18,quantity,2.585,RandomForestRegressor,18
+Eastern Asia,2016-01-19,quantity,11.365,RandomForestRegressor,19
+Eastern Asia,2016-01-20,quantity,12.0875,RandomForestRegressor,20
+Eastern Asia,2016-01-21,quantity,12.6325,RandomForestRegressor,21
+Eastern Asia,2016-01-22,quantity,17.765,RandomForestRegressor,22
+Eastern Asia,2016-01-23,quantity,18.695,RandomForestRegressor,23
+Eastern Asia,2016-01-24,quantity,17.75,RandomForestRegressor,24
+Eastern Asia,2016-01-25,quantity,4.725,RandomForestRegressor,25
+Eastern Asia,2016-01-26,quantity,16.515,RandomForestRegressor,26
+Eastern Asia,2016-01-27,quantity,18.3875,RandomForestRegressor,27
+Eastern Asia,2016-01-28,quantity,18.9925,RandomForestRegressor,28
+Eastern Europe,2016-01-01,quantity,7.6575,RandomForestRegressor,1
+Eastern Europe,2016-01-02,quantity,6.315,RandomForestRegressor,2
+Eastern Europe,2016-01-03,quantity,3.5975,RandomForestRegressor,3
+Eastern Europe,2016-01-04,quantity,1.6175,RandomForestRegressor,4
+Eastern Europe,2016-01-05,quantity,9.705,RandomForestRegressor,5
+Eastern Europe,2016-01-06,quantity,11.495,RandomForestRegressor,6
+Eastern Europe,2016-01-07,quantity,12.4275,RandomForestRegressor,7
+Eastern Europe,2016-01-08,quantity,8.255,RandomForestRegressor,8
+Eastern Europe,2016-01-09,quantity,7.415,RandomForestRegressor,9
+Eastern Europe,2016-01-10,quantity,7.6025,RandomForestRegressor,10
+Eastern Europe,2016-01-11,quantity,4.965,RandomForestRegressor,11
+Eastern Europe,2016-01-12,quantity,8.0625,RandomForestRegressor,12
+Eastern Europe,2016-01-13,quantity,7.5975,RandomForestRegressor,13
+Eastern Europe,2016-01-14,quantity,8.2225,RandomForestRegressor,14
+Eastern Europe,2016-01-15,quantity,9.595,RandomForestRegressor,15
+Eastern Europe,2016-01-16,quantity,9.34,RandomForestRegressor,16
+Eastern Europe,2016-01-17,quantity,8.85,RandomForestRegressor,17
+Eastern Europe,2016-01-18,quantity,5.845,RandomForestRegressor,18
+Eastern Europe,2016-01-19,quantity,9.775,RandomForestRegressor,19
+Eastern Europe,2016-01-20,quantity,9.57,RandomForestRegressor,20
+Eastern Europe,2016-01-21,quantity,10.5875,RandomForestRegressor,21
+Eastern Europe,2016-01-22,quantity,9.83,RandomForestRegressor,22
+Eastern Europe,2016-01-23,quantity,9.7025,RandomForestRegressor,23
+Eastern Europe,2016-01-24,quantity,9.4525,RandomForestRegressor,24
+Eastern Europe,2016-01-25,quantity,6.4025,RandomForestRegressor,25
+Eastern Europe,2016-01-26,quantity,9.92,RandomForestRegressor,26
+Eastern Europe,2016-01-27,quantity,10.0275,RandomForestRegressor,27
+Eastern Europe,2016-01-28,quantity,10.655,RandomForestRegressor,28
+Eastern US,2016-01-01,quantity,30.7275,RandomForestRegressor,1
+Eastern US,2016-01-02,quantity,33.4525,RandomForestRegressor,2
+Eastern US,2016-01-03,quantity,28.0225,RandomForestRegressor,3
+Eastern US,2016-01-04,quantity,21.265,RandomForestRegressor,4
+Eastern US,2016-01-05,quantity,28.84,RandomForestRegressor,5
+Eastern US,2016-01-06,quantity,22.2825,RandomForestRegressor,6
+Eastern US,2016-01-07,quantity,20.175,RandomForestRegressor,7
+Eastern US,2016-01-08,quantity,26.9525,RandomForestRegressor,8
+Eastern US,2016-01-09,quantity,30.515,RandomForestRegressor,9
+Eastern US,2016-01-10,quantity,14.4125,RandomForestRegressor,10
+Eastern US,2016-01-11,quantity,22.5875,RandomForestRegressor,11
+Eastern US,2016-01-12,quantity,25.98,RandomForestRegressor,12
+Eastern US,2016-01-13,quantity,17.38,RandomForestRegressor,13
+Eastern US,2016-01-14,quantity,17.6175,RandomForestRegressor,14
+Eastern US,2016-01-15,quantity,19.48,RandomForestRegressor,15
+Eastern US,2016-01-16,quantity,23.9825,RandomForestRegressor,16
+Eastern US,2016-01-17,quantity,22.0075,RandomForestRegressor,17
+Eastern US,2016-01-18,quantity,27.335,RandomForestRegressor,18
+Eastern US,2016-01-19,quantity,48.6875,RandomForestRegressor,19
+Eastern US,2016-01-20,quantity,43.0275,RandomForestRegressor,20
+Eastern US,2016-01-21,quantity,50.49,RandomForestRegressor,21
+Eastern US,2016-01-22,quantity,44.4225,RandomForestRegressor,22
+Eastern US,2016-01-23,quantity,48.795,RandomForestRegressor,23
+Eastern US,2016-01-24,quantity,44.93,RandomForestRegressor,24
+Eastern US,2016-01-25,quantity,44.4575,RandomForestRegressor,25
+Eastern US,2016-01-26,quantity,57.275,RandomForestRegressor,26
+Eastern US,2016-01-27,quantity,44.5925,RandomForestRegressor,27
+Eastern US,2016-01-28,quantity,51.385,RandomForestRegressor,28
+North Africa,2016-01-01,quantity,5.8725,RandomForestRegressor,1
+North Africa,2016-01-02,quantity,4.105,RandomForestRegressor,2
+North Africa,2016-01-03,quantity,4.245,RandomForestRegressor,3
+North Africa,2016-01-04,quantity,1.255,RandomForestRegressor,4
+North Africa,2016-01-05,quantity,6.525,RandomForestRegressor,5
+North Africa,2016-01-06,quantity,4.935,RandomForestRegressor,6
+North Africa,2016-01-07,quantity,5.34,RandomForestRegressor,7
+North Africa,2016-01-08,quantity,4.0775,RandomForestRegressor,8
+North Africa,2016-01-09,quantity,3.5875,RandomForestRegressor,9
+North Africa,2016-01-10,quantity,4.0625,RandomForestRegressor,10
+North Africa,2016-01-11,quantity,1.6125,RandomForestRegressor,11
+North Africa,2016-01-12,quantity,8.3975,RandomForestRegressor,12
+North Africa,2016-01-13,quantity,6.8775,RandomForestRegressor,13
+North Africa,2016-01-14,quantity,6.095,RandomForestRegressor,14
+North Africa,2016-01-15,quantity,6.255,RandomForestRegressor,15
+North Africa,2016-01-16,quantity,4.5325,RandomForestRegressor,16
+North Africa,2016-01-17,quantity,5.4975,RandomForestRegressor,17
+North Africa,2016-01-18,quantity,3.2975,RandomForestRegressor,18
+North Africa,2016-01-19,quantity,8.8925,RandomForestRegressor,19
+North Africa,2016-01-20,quantity,9.1925,RandomForestRegressor,20
+North Africa,2016-01-21,quantity,8.85,RandomForestRegressor,21
+North Africa,2016-01-22,quantity,10.09,RandomForestRegressor,22
+North Africa,2016-01-23,quantity,8.7625,RandomForestRegressor,23
+North Africa,2016-01-24,quantity,8.55,RandomForestRegressor,24
+North Africa,2016-01-25,quantity,4.1375,RandomForestRegressor,25
+North Africa,2016-01-26,quantity,11.3,RandomForestRegressor,26
+North Africa,2016-01-27,quantity,10.5775,RandomForestRegressor,27
+North Africa,2016-01-28,quantity,10.585,RandomForestRegressor,28
+Northern Europe,2016-01-01,quantity,11.1025,RandomForestRegressor,1
+Northern Europe,2016-01-02,quantity,10.3275,RandomForestRegressor,2
+Northern Europe,2016-01-03,quantity,7.215,RandomForestRegressor,3
+Northern Europe,2016-01-04,quantity,4.935,RandomForestRegressor,4
+Northern Europe,2016-01-05,quantity,11.505,RandomForestRegressor,5
+Northern Europe,2016-01-06,quantity,14.085,RandomForestRegressor,6
+Northern Europe,2016-01-07,quantity,11.44,RandomForestRegressor,7
+Northern Europe,2016-01-08,quantity,10.49,RandomForestRegressor,8
+Northern Europe,2016-01-09,quantity,11.8375,RandomForestRegressor,9
+Northern Europe,2016-01-10,quantity,8.6025,RandomForestRegressor,10
+Northern Europe,2016-01-11,quantity,4.99,RandomForestRegressor,11
+Northern Europe,2016-01-12,quantity,9.17,RandomForestRegressor,12
+Northern Europe,2016-01-13,quantity,10.1125,RandomForestRegressor,13
+Northern Europe,2016-01-14,quantity,8.8175,RandomForestRegressor,14
+Northern Europe,2016-01-15,quantity,9.3025,RandomForestRegressor,15
+Northern Europe,2016-01-16,quantity,8.6275,RandomForestRegressor,16
+Northern Europe,2016-01-17,quantity,10.4725,RandomForestRegressor,17
+Northern Europe,2016-01-18,quantity,4.82,RandomForestRegressor,18
+Northern Europe,2016-01-19,quantity,12.65,RandomForestRegressor,19
+Northern Europe,2016-01-20,quantity,11.3525,RandomForestRegressor,20
+Northern Europe,2016-01-21,quantity,11.275,RandomForestRegressor,21
+Northern Europe,2016-01-22,quantity,11.8925,RandomForestRegressor,22
+Northern Europe,2016-01-23,quantity,11.865,RandomForestRegressor,23
+Northern Europe,2016-01-24,quantity,10.6075,RandomForestRegressor,24
+Northern Europe,2016-01-25,quantity,7.875,RandomForestRegressor,25
+Northern Europe,2016-01-26,quantity,12.6075,RandomForestRegressor,26
+Northern Europe,2016-01-27,quantity,12.45,RandomForestRegressor,27
+Northern Europe,2016-01-28,quantity,12.2325,RandomForestRegressor,28
+Oceania,2015-12-31,quantity,15.295,RandomForestRegressor,1
+Oceania,2016-01-01,quantity,15.62,RandomForestRegressor,2
+Oceania,2016-01-02,quantity,19.02,RandomForestRegressor,3
+Oceania,2016-01-03,quantity,7.965,RandomForestRegressor,4
+Oceania,2016-01-04,quantity,3.6175,RandomForestRegressor,5
+Oceania,2016-01-05,quantity,12.8525,RandomForestRegressor,6
+Oceania,2016-01-06,quantity,15.2175,RandomForestRegressor,7
+Oceania,2016-01-07,quantity,13.3425,RandomForestRegressor,8
+Oceania,2016-01-08,quantity,17.4875,RandomForestRegressor,9
+Oceania,2016-01-09,quantity,16.6125,RandomForestRegressor,10
+Oceania,2016-01-10,quantity,6.265,RandomForestRegressor,11
+Oceania,2016-01-11,quantity,2.425,RandomForestRegressor,12
+Oceania,2016-01-12,quantity,11.1275,RandomForestRegressor,13
+Oceania,2016-01-13,quantity,16.27,RandomForestRegressor,14
+Oceania,2016-01-14,quantity,16.4275,RandomForestRegressor,15
+Oceania,2016-01-15,quantity,17.0275,RandomForestRegressor,16
+Oceania,2016-01-16,quantity,16.2525,RandomForestRegressor,17
+Oceania,2016-01-17,quantity,5.88,RandomForestRegressor,18
+Oceania,2016-01-18,quantity,3.06,RandomForestRegressor,19
+Oceania,2016-01-19,quantity,16.8375,RandomForestRegressor,20
+Oceania,2016-01-20,quantity,14.535,RandomForestRegressor,21
+Oceania,2016-01-21,quantity,16.0675,RandomForestRegressor,22
+Oceania,2016-01-22,quantity,15.5775,RandomForestRegressor,23
+Oceania,2016-01-23,quantity,15.8225,RandomForestRegressor,24
+Oceania,2016-01-24,quantity,5.175,RandomForestRegressor,25
+Oceania,2016-01-25,quantity,2.335,RandomForestRegressor,26
+Oceania,2016-01-26,quantity,15.96,RandomForestRegressor,27
+Oceania,2016-01-27,quantity,24.35,RandomForestRegressor,28
+South America,2016-01-01,quantity,18.7725,RandomForestRegressor,1
+South America,2016-01-02,quantity,18.7975,RandomForestRegressor,2
+South America,2016-01-03,quantity,15.8375,RandomForestRegressor,3
+South America,2016-01-04,quantity,3.5175,RandomForestRegressor,4
+South America,2016-01-05,quantity,12.3625,RandomForestRegressor,5
+South America,2016-01-06,quantity,12.6675,RandomForestRegressor,6
+South America,2016-01-07,quantity,14.0,RandomForestRegressor,7
+South America,2016-01-08,quantity,13.19,RandomForestRegressor,8
+South America,2016-01-09,quantity,12.17,RandomForestRegressor,9
+South America,2016-01-10,quantity,15.9475,RandomForestRegressor,10
+South America,2016-01-11,quantity,10.275,RandomForestRegressor,11
+South America,2016-01-12,quantity,18.6925,RandomForestRegressor,12
+South America,2016-01-13,quantity,16.24,RandomForestRegressor,13
+South America,2016-01-14,quantity,16.5975,RandomForestRegressor,14
+South America,2016-01-15,quantity,17.705,RandomForestRegressor,15
+South America,2016-01-16,quantity,16.6425,RandomForestRegressor,16
+South America,2016-01-17,quantity,16.995,RandomForestRegressor,17
+South America,2016-01-18,quantity,11.005,RandomForestRegressor,18
+South America,2016-01-19,quantity,18.7675,RandomForestRegressor,19
+South America,2016-01-20,quantity,18.07,RandomForestRegressor,20
+South America,2016-01-21,quantity,18.09,RandomForestRegressor,21
+South America,2016-01-22,quantity,17.3,RandomForestRegressor,22
+South America,2016-01-23,quantity,16.4025,RandomForestRegressor,23
+South America,2016-01-24,quantity,17.9675,RandomForestRegressor,24
+South America,2016-01-25,quantity,12.4625,RandomForestRegressor,25
+South America,2016-01-26,quantity,19.715,RandomForestRegressor,26
+South America,2016-01-27,quantity,18.51,RandomForestRegressor,27
+South America,2016-01-28,quantity,18.49,RandomForestRegressor,28
+Southeastern Asia,2016-01-01,quantity,12.1825,RandomForestRegressor,1
+Southeastern Asia,2016-01-02,quantity,14.955,RandomForestRegressor,2
+Southeastern Asia,2016-01-03,quantity,14.1525,RandomForestRegressor,3
+Southeastern Asia,2016-01-04,quantity,1.675,RandomForestRegressor,4
+Southeastern Asia,2016-01-05,quantity,13.3375,RandomForestRegressor,5
+Southeastern Asia,2016-01-06,quantity,21.0425,RandomForestRegressor,6
+Southeastern Asia,2016-01-07,quantity,11.48,RandomForestRegressor,7
+Southeastern Asia,2016-01-08,quantity,19.5875,RandomForestRegressor,8
+Southeastern Asia,2016-01-09,quantity,14.175,RandomForestRegressor,9
+Southeastern Asia,2016-01-10,quantity,8.225,RandomForestRegressor,10
+Southeastern Asia,2016-01-11,quantity,2.6275,RandomForestRegressor,11
+Southeastern Asia,2016-01-12,quantity,12.4,RandomForestRegressor,12
+Southeastern Asia,2016-01-13,quantity,18.445,RandomForestRegressor,13
+Southeastern Asia,2016-01-14,quantity,16.2425,RandomForestRegressor,14
+Southeastern Asia,2016-01-15,quantity,13.1225,RandomForestRegressor,15
+Southeastern Asia,2016-01-16,quantity,12.44,RandomForestRegressor,16
+Southeastern Asia,2016-01-17,quantity,9.1975,RandomForestRegressor,17
+Southeastern Asia,2016-01-18,quantity,2.65,RandomForestRegressor,18
+Southeastern Asia,2016-01-19,quantity,11.5125,RandomForestRegressor,19
+Southeastern Asia,2016-01-20,quantity,15.8675,RandomForestRegressor,20
+Southeastern Asia,2016-01-21,quantity,12.895,RandomForestRegressor,21
+Southeastern Asia,2016-01-22,quantity,13.29,RandomForestRegressor,22
+Southeastern Asia,2016-01-23,quantity,12.2,RandomForestRegressor,23
+Southeastern Asia,2016-01-24,quantity,7.5075,RandomForestRegressor,24
+Southeastern Asia,2016-01-25,quantity,2.8325,RandomForestRegressor,25
+Southeastern Asia,2016-01-26,quantity,11.0425,RandomForestRegressor,26
+Southeastern Asia,2016-01-27,quantity,14.64,RandomForestRegressor,27
+Southeastern Asia,2016-01-28,quantity,15.1325,RandomForestRegressor,28
+Southern Africa,2015-12-25,quantity,2.1725,RandomForestRegressor,1
+Southern Africa,2015-12-26,quantity,3.535,RandomForestRegressor,2
+Southern Africa,2015-12-27,quantity,2.9475,RandomForestRegressor,3
+Southern Africa,2015-12-28,quantity,1.23,RandomForestRegressor,4
+Southern Africa,2015-12-29,quantity,3.6825,RandomForestRegressor,5
+Southern Africa,2015-12-30,quantity,3.645,RandomForestRegressor,6
+Southern Africa,2015-12-31,quantity,4.7475,RandomForestRegressor,7
+Southern Africa,2016-01-01,quantity,3.9525,RandomForestRegressor,8
+Southern Africa,2016-01-02,quantity,4.12,RandomForestRegressor,9
+Southern Africa,2016-01-03,quantity,3.84,RandomForestRegressor,10
+Southern Africa,2016-01-04,quantity,0.8825,RandomForestRegressor,11
+Southern Africa,2016-01-05,quantity,3.11,RandomForestRegressor,12
+Southern Africa,2016-01-06,quantity,2.745,RandomForestRegressor,13
+Southern Africa,2016-01-07,quantity,3.2875,RandomForestRegressor,14
+Southern Africa,2016-01-08,quantity,2.94,RandomForestRegressor,15
+Southern Africa,2016-01-09,quantity,4.6925,RandomForestRegressor,16
+Southern Africa,2016-01-10,quantity,4.6625,RandomForestRegressor,17
+Southern Africa,2016-01-11,quantity,1.09,RandomForestRegressor,18
+Southern Africa,2016-01-12,quantity,5.3625,RandomForestRegressor,19
+Southern Africa,2016-01-13,quantity,2.7525,RandomForestRegressor,20
+Southern Africa,2016-01-14,quantity,5.2,RandomForestRegressor,21
+Southern Africa,2016-01-15,quantity,3.53,RandomForestRegressor,22
+Southern Africa,2016-01-16,quantity,4.785,RandomForestRegressor,23
+Southern Africa,2016-01-17,quantity,4.89,RandomForestRegressor,24
+Southern Africa,2016-01-18,quantity,1.7925,RandomForestRegressor,25
+Southern Africa,2016-01-19,quantity,6.8775,RandomForestRegressor,26
+Southern Africa,2016-01-20,quantity,5.6175,RandomForestRegressor,27
+Southern Africa,2016-01-21,quantity,5.3975,RandomForestRegressor,28
+Southern Asia,2016-01-01,quantity,9.7625,RandomForestRegressor,1
+Southern Asia,2016-01-02,quantity,9.915,RandomForestRegressor,2
+Southern Asia,2016-01-03,quantity,6.7625,RandomForestRegressor,3
+Southern Asia,2016-01-04,quantity,1.04,RandomForestRegressor,4
+Southern Asia,2016-01-05,quantity,8.0,RandomForestRegressor,5
+Southern Asia,2016-01-06,quantity,8.5475,RandomForestRegressor,6
+Southern Asia,2016-01-07,quantity,9.6625,RandomForestRegressor,7
+Southern Asia,2016-01-08,quantity,11.5825,RandomForestRegressor,8
+Southern Asia,2016-01-09,quantity,12.915,RandomForestRegressor,9
+Southern Asia,2016-01-10,quantity,9.915,RandomForestRegressor,10
+Southern Asia,2016-01-11,quantity,2.7775,RandomForestRegressor,11
+Southern Asia,2016-01-12,quantity,12.0725,RandomForestRegressor,12
+Southern Asia,2016-01-13,quantity,13.675,RandomForestRegressor,13
+Southern Asia,2016-01-14,quantity,13.675,RandomForestRegressor,14
+Southern Asia,2016-01-15,quantity,13.625,RandomForestRegressor,15
+Southern Asia,2016-01-16,quantity,14.84,RandomForestRegressor,16
+Southern Asia,2016-01-17,quantity,14.3775,RandomForestRegressor,17
+Southern Asia,2016-01-18,quantity,3.26,RandomForestRegressor,18
+Southern Asia,2016-01-19,quantity,12.955,RandomForestRegressor,19
+Southern Asia,2016-01-20,quantity,13.8725,RandomForestRegressor,20
+Southern Asia,2016-01-21,quantity,13.5725,RandomForestRegressor,21
+Southern Asia,2016-01-22,quantity,14.3,RandomForestRegressor,22
+Southern Asia,2016-01-23,quantity,15.18,RandomForestRegressor,23
+Southern Asia,2016-01-24,quantity,16.125,RandomForestRegressor,24
+Southern Asia,2016-01-25,quantity,3.775,RandomForestRegressor,25
+Southern Asia,2016-01-26,quantity,13.2775,RandomForestRegressor,26
+Southern Asia,2016-01-27,quantity,12.71,RandomForestRegressor,27
+Southern Asia,2016-01-28,quantity,14.27,RandomForestRegressor,28
+Southern Europe,2016-01-01,quantity,8.7775,RandomForestRegressor,1
+Southern Europe,2016-01-02,quantity,12.9975,RandomForestRegressor,2
+Southern Europe,2016-01-03,quantity,10.6425,RandomForestRegressor,3
+Southern Europe,2016-01-04,quantity,1.835,RandomForestRegressor,4
+Southern Europe,2016-01-05,quantity,10.7475,RandomForestRegressor,5
+Southern Europe,2016-01-06,quantity,8.83,RandomForestRegressor,6
+Southern Europe,2016-01-07,quantity,9.0275,RandomForestRegressor,7
+Southern Europe,2016-01-08,quantity,10.43,RandomForestRegressor,8
+Southern Europe,2016-01-09,quantity,11.6525,RandomForestRegressor,9
+Southern Europe,2016-01-10,quantity,11.15,RandomForestRegressor,10
+Southern Europe,2016-01-11,quantity,4.465,RandomForestRegressor,11
+Southern Europe,2016-01-12,quantity,14.055,RandomForestRegressor,12
+Southern Europe,2016-01-13,quantity,12.5325,RandomForestRegressor,13
+Southern Europe,2016-01-14,quantity,12.5025,RandomForestRegressor,14
+Southern Europe,2016-01-15,quantity,12.255,RandomForestRegressor,15
+Southern Europe,2016-01-16,quantity,12.2075,RandomForestRegressor,16
+Southern Europe,2016-01-17,quantity,11.21,RandomForestRegressor,17
+Southern Europe,2016-01-18,quantity,1.2025,RandomForestRegressor,18
+Southern Europe,2016-01-19,quantity,13.165,RandomForestRegressor,19
+Southern Europe,2016-01-20,quantity,12.68,RandomForestRegressor,20
+Southern Europe,2016-01-21,quantity,12.105,RandomForestRegressor,21
+Southern Europe,2016-01-22,quantity,11.7425,RandomForestRegressor,22
+Southern Europe,2016-01-23,quantity,10.9975,RandomForestRegressor,23
+Southern Europe,2016-01-24,quantity,10.64,RandomForestRegressor,24
+Southern Europe,2016-01-25,quantity,3.0375,RandomForestRegressor,25
+Southern Europe,2016-01-26,quantity,12.3725,RandomForestRegressor,26
+Southern Europe,2016-01-27,quantity,12.195,RandomForestRegressor,27
+Southern Europe,2016-01-28,quantity,11.71,RandomForestRegressor,28
+Southern US,2015-12-31,quantity,8.0475,RandomForestRegressor,1
+Southern US,2016-01-01,quantity,6.5775,RandomForestRegressor,2
+Southern US,2016-01-02,quantity,5.8875,RandomForestRegressor,3
+Southern US,2016-01-03,quantity,4.7975,RandomForestRegressor,4
+Southern US,2016-01-04,quantity,1.56,RandomForestRegressor,5
+Southern US,2016-01-05,quantity,10.0425,RandomForestRegressor,6
+Southern US,2016-01-06,quantity,5.6925,RandomForestRegressor,7
+Southern US,2016-01-07,quantity,10.5225,RandomForestRegressor,8
+Southern US,2016-01-08,quantity,11.9575,RandomForestRegressor,9
+Southern US,2016-01-09,quantity,11.695,RandomForestRegressor,10
+Southern US,2016-01-10,quantity,7.9175,RandomForestRegressor,11
+Southern US,2016-01-11,quantity,2.105,RandomForestRegressor,12
+Southern US,2016-01-12,quantity,12.575,RandomForestRegressor,13
+Southern US,2016-01-13,quantity,13.825,RandomForestRegressor,14
+Southern US,2016-01-14,quantity,14.8725,RandomForestRegressor,15
+Southern US,2016-01-15,quantity,14.235,RandomForestRegressor,16
+Southern US,2016-01-16,quantity,14.205,RandomForestRegressor,17
+Southern US,2016-01-17,quantity,9.685,RandomForestRegressor,18
+Southern US,2016-01-18,quantity,2.775,RandomForestRegressor,19
+Southern US,2016-01-19,quantity,12.6625,RandomForestRegressor,20
+Southern US,2016-01-20,quantity,13.9375,RandomForestRegressor,21
+Southern US,2016-01-21,quantity,13.98,RandomForestRegressor,22
+Southern US,2016-01-22,quantity,13.75,RandomForestRegressor,23
+Southern US,2016-01-23,quantity,14.8125,RandomForestRegressor,24
+Southern US,2016-01-24,quantity,13.3975,RandomForestRegressor,25
+Southern US,2016-01-25,quantity,3.9125,RandomForestRegressor,26
+Southern US,2016-01-26,quantity,14.245,RandomForestRegressor,27
+Southern US,2016-01-27,quantity,15.24,RandomForestRegressor,28
+Western Africa,2015-12-31,quantity,9.78,RandomForestRegressor,1
+Western Africa,2016-01-01,quantity,5.2275,RandomForestRegressor,2
+Western Africa,2016-01-02,quantity,8.23,RandomForestRegressor,3
+Western Africa,2016-01-03,quantity,4.895,RandomForestRegressor,4
+Western Africa,2016-01-04,quantity,0.305,RandomForestRegressor,5
+Western Africa,2016-01-05,quantity,2.4425,RandomForestRegressor,6
+Western Africa,2016-01-06,quantity,2.475,RandomForestRegressor,7
+Western Africa,2016-01-07,quantity,5.2725,RandomForestRegressor,8
+Western Africa,2016-01-08,quantity,3.1975,RandomForestRegressor,9
+Western Africa,2016-01-09,quantity,4.9525,RandomForestRegressor,10
+Western Africa,2016-01-10,quantity,2.825,RandomForestRegressor,11
+Western Africa,2016-01-11,quantity,1.9675,RandomForestRegressor,12
+Western Africa,2016-01-12,quantity,3.4475,RandomForestRegressor,13
+Western Africa,2016-01-13,quantity,5.885,RandomForestRegressor,14
+Western Africa,2016-01-14,quantity,8.1525,RandomForestRegressor,15
+Western Africa,2016-01-15,quantity,7.6725,RandomForestRegressor,16
+Western Africa,2016-01-16,quantity,9.2225,RandomForestRegressor,17
+Western Africa,2016-01-17,quantity,8.2475,RandomForestRegressor,18
+Western Africa,2016-01-18,quantity,1.865,RandomForestRegressor,19
+Western Africa,2016-01-19,quantity,7.56,RandomForestRegressor,20
+Western Africa,2016-01-20,quantity,8.3425,RandomForestRegressor,21
+Western Africa,2016-01-21,quantity,8.69,RandomForestRegressor,22
+Western Africa,2016-01-22,quantity,8.7025,RandomForestRegressor,23
+Western Africa,2016-01-23,quantity,9.2675,RandomForestRegressor,24
+Western Africa,2016-01-24,quantity,8.605,RandomForestRegressor,25
+Western Africa,2016-01-25,quantity,1.915,RandomForestRegressor,26
+Western Africa,2016-01-26,quantity,8.5625,RandomForestRegressor,27
+Western Africa,2016-01-27,quantity,9.57,RandomForestRegressor,28
+Western Asia,2016-01-01,quantity,8.995,RandomForestRegressor,1
+Western Asia,2016-01-02,quantity,8.87,RandomForestRegressor,2
+Western Asia,2016-01-03,quantity,5.8725,RandomForestRegressor,3
+Western Asia,2016-01-04,quantity,3.885,RandomForestRegressor,4
+Western Asia,2016-01-05,quantity,7.7475,RandomForestRegressor,5
+Western Asia,2016-01-06,quantity,7.34,RandomForestRegressor,6
+Western Asia,2016-01-07,quantity,8.115,RandomForestRegressor,7
+Western Asia,2016-01-08,quantity,8.0475,RandomForestRegressor,8
+Western Asia,2016-01-09,quantity,8.0175,RandomForestRegressor,9
+Western Asia,2016-01-10,quantity,7.6125,RandomForestRegressor,10
+Western Asia,2016-01-11,quantity,3.2625,RandomForestRegressor,11
+Western Asia,2016-01-12,quantity,8.49,RandomForestRegressor,12
+Western Asia,2016-01-13,quantity,7.275,RandomForestRegressor,13
+Western Asia,2016-01-14,quantity,8.3175,RandomForestRegressor,14
+Western Asia,2016-01-15,quantity,9.3625,RandomForestRegressor,15
+Western Asia,2016-01-16,quantity,10.39,RandomForestRegressor,16
+Western Asia,2016-01-17,quantity,6.4875,RandomForestRegressor,17
+Western Asia,2016-01-18,quantity,2.8825,RandomForestRegressor,18
+Western Asia,2016-01-19,quantity,9.845,RandomForestRegressor,19
+Western Asia,2016-01-20,quantity,6.9075,RandomForestRegressor,20
+Western Asia,2016-01-21,quantity,8.71,RandomForestRegressor,21
+Western Asia,2016-01-22,quantity,6.65,RandomForestRegressor,22
+Western Asia,2016-01-23,quantity,9.05,RandomForestRegressor,23
+Western Asia,2016-01-24,quantity,6.3375,RandomForestRegressor,24
+Western Asia,2016-01-25,quantity,2.3575,RandomForestRegressor,25
+Western Asia,2016-01-26,quantity,7.845,RandomForestRegressor,26
+Western Asia,2016-01-27,quantity,8.3925,RandomForestRegressor,27
+Western Asia,2016-01-28,quantity,8.38,RandomForestRegressor,28
+Western Europe,2016-01-01,quantity,18.1775,RandomForestRegressor,1
+Western Europe,2016-01-02,quantity,21.5825,RandomForestRegressor,2
+Western Europe,2016-01-03,quantity,23.945,RandomForestRegressor,3
+Western Europe,2016-01-04,quantity,5.815,RandomForestRegressor,4
+Western Europe,2016-01-05,quantity,26.1475,RandomForestRegressor,5
+Western Europe,2016-01-06,quantity,27.4375,RandomForestRegressor,6
+Western Europe,2016-01-07,quantity,27.945,RandomForestRegressor,7
+Western Europe,2016-01-08,quantity,21.7125,RandomForestRegressor,8
+Western Europe,2016-01-09,quantity,24.9775,RandomForestRegressor,9
+Western Europe,2016-01-10,quantity,22.595,RandomForestRegressor,10
+Western Europe,2016-01-11,quantity,3.8075,RandomForestRegressor,11
+Western Europe,2016-01-12,quantity,26.895,RandomForestRegressor,12
+Western Europe,2016-01-13,quantity,26.9325,RandomForestRegressor,13
+Western Europe,2016-01-14,quantity,24.3475,RandomForestRegressor,14
+Western Europe,2016-01-15,quantity,24.375,RandomForestRegressor,15
+Western Europe,2016-01-16,quantity,30.07,RandomForestRegressor,16
+Western Europe,2016-01-17,quantity,24.6075,RandomForestRegressor,17
+Western Europe,2016-01-18,quantity,10.3925,RandomForestRegressor,18
+Western Europe,2016-01-19,quantity,28.9325,RandomForestRegressor,19
+Western Europe,2016-01-20,quantity,26.3675,RandomForestRegressor,20
+Western Europe,2016-01-21,quantity,25.5025,RandomForestRegressor,21
+Western Europe,2016-01-22,quantity,25.3475,RandomForestRegressor,22
+Western Europe,2016-01-23,quantity,26.74,RandomForestRegressor,23
+Western Europe,2016-01-24,quantity,23.2575,RandomForestRegressor,24
+Western Europe,2016-01-25,quantity,6.24,RandomForestRegressor,25
+Western Europe,2016-01-26,quantity,25.6175,RandomForestRegressor,26
+Western Europe,2016-01-27,quantity,27.885,RandomForestRegressor,27
+Western Europe,2016-01-28,quantity,25.61,RandomForestRegressor,28
+Western US,2016-01-01,quantity,48.65,RandomForestRegressor,1
+Western US,2016-01-02,quantity,53.475,RandomForestRegressor,2
+Western US,2016-01-03,quantity,48.5,RandomForestRegressor,3
+Western US,2016-01-04,quantity,25.0825,RandomForestRegressor,4
+Western US,2016-01-05,quantity,32.9225,RandomForestRegressor,5
+Western US,2016-01-06,quantity,36.5225,RandomForestRegressor,6
+Western US,2016-01-07,quantity,39.465,RandomForestRegressor,7
+Western US,2016-01-08,quantity,50.115,RandomForestRegressor,8
+Western US,2016-01-09,quantity,49.365,RandomForestRegressor,9
+Western US,2016-01-10,quantity,47.1,RandomForestRegressor,10
+Western US,2016-01-11,quantity,17.535,RandomForestRegressor,11
+Western US,2016-01-12,quantity,42.735,RandomForestRegressor,12
+Western US,2016-01-13,quantity,43.5825,RandomForestRegressor,13
+Western US,2016-01-14,quantity,49.62,RandomForestRegressor,14
+Western US,2016-01-15,quantity,49.615,RandomForestRegressor,15
+Western US,2016-01-16,quantity,49.67,RandomForestRegressor,16
+Western US,2016-01-17,quantity,48.7825,RandomForestRegressor,17
+Western US,2016-01-18,quantity,15.33,RandomForestRegressor,18
+Western US,2016-01-19,quantity,48.295,RandomForestRegressor,19
+Western US,2016-01-20,quantity,48.2925,RandomForestRegressor,20
+Western US,2016-01-21,quantity,50.3325,RandomForestRegressor,21
+Western US,2016-01-22,quantity,50.83,RandomForestRegressor,22
+Western US,2016-01-23,quantity,51.5725,RandomForestRegressor,23
+Western US,2016-01-24,quantity,49.69,RandomForestRegressor,24
+Western US,2016-01-25,quantity,15.54,RandomForestRegressor,25
+Western US,2016-01-26,quantity,51.005,RandomForestRegressor,26
+Western US,2016-01-27,quantity,50.375,RandomForestRegressor,27
+Western US,2016-01-28,quantity,51.6725,RandomForestRegressor,28
+Canada,2015-12-31,sales,145.5849750000001,RandomForestRegressor,1
+Canada,2016-01-01,sales,123.68332500000018,RandomForestRegressor,2
+Canada,2016-01-02,sales,128.73622500000008,RandomForestRegressor,3
+Canada,2016-01-03,sales,192.11625000000004,RandomForestRegressor,4
+Canada,2016-01-04,sales,42.074475,RandomForestRegressor,5
+Canada,2016-01-05,sales,79.97025000000006,RandomForestRegressor,6
+Canada,2016-01-06,sales,41.04164999999999,RandomForestRegressor,7
+Canada,2016-01-07,sales,48.573375000000006,RandomForestRegressor,8
+Canada,2016-01-08,sales,51.735600000000005,RandomForestRegressor,9
+Canada,2016-01-09,sales,75.06810000000004,RandomForestRegressor,10
+Canada,2016-01-10,sales,93.06825,RandomForestRegressor,11
+Canada,2016-01-11,sales,45.064949999999996,RandomForestRegressor,12
+Canada,2016-01-12,sales,67.06237500000002,RandomForestRegressor,13
+Canada,2016-01-13,sales,100.71907500000002,RandomForestRegressor,14
+Canada,2016-01-14,sales,63.40222499999999,RandomForestRegressor,15
+Canada,2016-01-15,sales,223.6307999999999,RandomForestRegressor,16
+Canada,2016-01-16,sales,87.02535000000007,RandomForestRegressor,17
+Canada,2016-01-17,sales,118.07475000000005,RandomForestRegressor,18
+Canada,2016-01-18,sales,39.21900000000001,RandomForestRegressor,19
+Canada,2016-01-19,sales,63.73005000000002,RandomForestRegressor,20
+Canada,2016-01-20,sales,429.61620000000056,RandomForestRegressor,21
+Canada,2016-01-21,sales,238.34280000000038,RandomForestRegressor,22
+Canada,2016-01-22,sales,322.2274500000006,RandomForestRegressor,23
+Canada,2016-01-23,sales,377.9088750000007,RandomForestRegressor,24
+Canada,2016-01-24,sales,401.79427500000037,RandomForestRegressor,25
+Canada,2016-01-25,sales,347.82225000000057,RandomForestRegressor,26
+Canada,2016-01-26,sales,270.4470000000003,RandomForestRegressor,27
+Canada,2016-01-27,sales,550.2363749999996,RandomForestRegressor,28
+Caribbean,2016-01-01,sales,408.09777379999997,RandomForestRegressor,1
+Caribbean,2016-01-02,sales,511.16362549999974,RandomForestRegressor,2
+Caribbean,2016-01-03,sales,337.60360250000014,RandomForestRegressor,3
+Caribbean,2016-01-04,sales,99.32784579999998,RandomForestRegressor,4
+Caribbean,2016-01-05,sales,504.3392926999996,RandomForestRegressor,5
+Caribbean,2016-01-06,sales,441.75415150000015,RandomForestRegressor,6
+Caribbean,2016-01-07,sales,572.0235984000001,RandomForestRegressor,7
+Caribbean,2016-01-08,sales,490.0149809999999,RandomForestRegressor,8
+Caribbean,2016-01-09,sales,518.6190542000005,RandomForestRegressor,9
+Caribbean,2016-01-10,sales,652.7324642999997,RandomForestRegressor,10
+Caribbean,2016-01-11,sales,362.3756771,RandomForestRegressor,11
+Caribbean,2016-01-12,sales,700.9668024000001,RandomForestRegressor,12
+Caribbean,2016-01-13,sales,792.0890364999989,RandomForestRegressor,13
+Caribbean,2016-01-14,sales,794.637892299999,RandomForestRegressor,14
+Caribbean,2016-01-15,sales,810.5060383999994,RandomForestRegressor,15
+Caribbean,2016-01-16,sales,730.0983601999998,RandomForestRegressor,16
+Caribbean,2016-01-17,sales,751.6980994999996,RandomForestRegressor,17
+Caribbean,2016-01-18,sales,806.7997293999995,RandomForestRegressor,18
+Caribbean,2016-01-19,sales,867.9461701999998,RandomForestRegressor,19
+Caribbean,2016-01-20,sales,848.8558567999996,RandomForestRegressor,20
+Caribbean,2016-01-21,sales,788.1525422999995,RandomForestRegressor,21
+Caribbean,2016-01-22,sales,819.5787774999999,RandomForestRegressor,22
+Caribbean,2016-01-23,sales,890.9422971000006,RandomForestRegressor,23
+Caribbean,2016-01-24,sales,984.3574278999996,RandomForestRegressor,24
+Caribbean,2016-01-25,sales,825.8404310999997,RandomForestRegressor,25
+Caribbean,2016-01-26,sales,963.2458142,RandomForestRegressor,26
+Caribbean,2016-01-27,sales,992.3000384,RandomForestRegressor,27
+Caribbean,2016-01-28,sales,975.3724815999993,RandomForestRegressor,28
+Central Africa,2016-01-01,sales,764.2854000000007,RandomForestRegressor,1
+Central Africa,2016-01-02,sales,251.58337500000007,RandomForestRegressor,2
+Central Africa,2016-01-03,sales,57.94754999999999,RandomForestRegressor,3
+Central Africa,2016-01-04,sales,44.72505000000002,RandomForestRegressor,4
+Central Africa,2016-01-05,sales,99.58695,RandomForestRegressor,5
+Central Africa,2016-01-06,sales,51.898649999999996,RandomForestRegressor,6
+Central Africa,2016-01-07,sales,71.57452500000005,RandomForestRegressor,7
+Central Africa,2016-01-08,sales,199.4234250000001,RandomForestRegressor,8
+Central Africa,2016-01-09,sales,126.94110000000006,RandomForestRegressor,9
+Central Africa,2016-01-10,sales,134.62087500000007,RandomForestRegressor,10
+Central Africa,2016-01-11,sales,59.729400000000005,RandomForestRegressor,11
+Central Africa,2016-01-12,sales,157.90305000000006,RandomForestRegressor,12
+Central Africa,2016-01-13,sales,101.39632500000003,RandomForestRegressor,13
+Central Africa,2016-01-14,sales,141.93360000000013,RandomForestRegressor,14
+Central Africa,2016-01-15,sales,258.9256499999996,RandomForestRegressor,15
+Central Africa,2016-01-16,sales,259.34219999999954,RandomForestRegressor,16
+Central Africa,2016-01-17,sales,264.1861499999999,RandomForestRegressor,17
+Central Africa,2016-01-18,sales,83.918475,RandomForestRegressor,18
+Central Africa,2016-01-19,sales,172.63275000000002,RandomForestRegressor,19
+Central Africa,2016-01-20,sales,110.3346750000001,RandomForestRegressor,20
+Central Africa,2016-01-21,sales,112.87935000000007,RandomForestRegressor,21
+Central Africa,2016-01-22,sales,296.30362499999956,RandomForestRegressor,22
+Central Africa,2016-01-23,sales,188.62020000000007,RandomForestRegressor,23
+Central Africa,2016-01-24,sales,152.9439000000001,RandomForestRegressor,24
+Central Africa,2016-01-25,sales,64.046625,RandomForestRegressor,25
+Central Africa,2016-01-26,sales,257.0802749999998,RandomForestRegressor,26
+Central Africa,2016-01-27,sales,124.73437500000007,RandomForestRegressor,27
+Central Africa,2016-01-28,sales,296.2973249999998,RandomForestRegressor,28
+Central America,2016-01-01,sales,1463.7195069999996,RandomForestRegressor,1
+Central America,2016-01-02,sales,1573.2430934000006,RandomForestRegressor,2
+Central America,2016-01-03,sales,1211.7353616000019,RandomForestRegressor,3
+Central America,2016-01-04,sales,866.639482699999,RandomForestRegressor,4
+Central America,2016-01-05,sales,893.9404384000009,RandomForestRegressor,5
+Central America,2016-01-06,sales,853.5986121000008,RandomForestRegressor,6
+Central America,2016-01-07,sales,1349.5979962000017,RandomForestRegressor,7
+Central America,2016-01-08,sales,1064.4773521000009,RandomForestRegressor,8
+Central America,2016-01-09,sales,1445.9271063000022,RandomForestRegressor,9
+Central America,2016-01-10,sales,1127.5253580000017,RandomForestRegressor,10
+Central America,2016-01-11,sales,664.3152304999999,RandomForestRegressor,11
+Central America,2016-01-12,sales,1377.8261996999995,RandomForestRegressor,12
+Central America,2016-01-13,sales,1235.4014461000006,RandomForestRegressor,13
+Central America,2016-01-14,sales,1599.8302443000007,RandomForestRegressor,14
+Central America,2016-01-15,sales,1683.0819588000004,RandomForestRegressor,15
+Central America,2016-01-16,sales,1788.5709244,RandomForestRegressor,16
+Central America,2016-01-17,sales,1268.5662739000006,RandomForestRegressor,17
+Central America,2016-01-18,sales,382.20995739999955,RandomForestRegressor,18
+Central America,2016-01-19,sales,1332.5739989999993,RandomForestRegressor,19
+Central America,2016-01-20,sales,1295.5426464000002,RandomForestRegressor,20
+Central America,2016-01-21,sales,1371.078902599999,RandomForestRegressor,21
+Central America,2016-01-22,sales,1599.6593851000005,RandomForestRegressor,22
+Central America,2016-01-23,sales,1695.9617542000012,RandomForestRegressor,23
+Central America,2016-01-24,sales,1445.5736594,RandomForestRegressor,24
+Central America,2016-01-25,sales,539.9502297999993,RandomForestRegressor,25
+Central America,2016-01-26,sales,1741.8440990999998,RandomForestRegressor,26
+Central America,2016-01-27,sales,1744.663107799999,RandomForestRegressor,27
+Central America,2016-01-28,sales,1956.2450416999986,RandomForestRegressor,28
+Central US,2016-01-01,sales,3446.9320694999983,RandomForestRegressor,1
+Central US,2016-01-02,sales,1656.9483150000005,RandomForestRegressor,2
+Central US,2016-01-03,sales,3761.9100465000015,RandomForestRegressor,3
+Central US,2016-01-04,sales,343.4730075000004,RandomForestRegressor,4
+Central US,2016-01-05,sales,571.9873725000001,RandomForestRegressor,5
+Central US,2016-01-06,sales,1348.3209105000008,RandomForestRegressor,6
+Central US,2016-01-07,sales,570.7650114999996,RandomForestRegressor,7
+Central US,2016-01-08,sales,708.3773584999996,RandomForestRegressor,8
+Central US,2016-01-09,sales,655.4640180000001,RandomForestRegressor,9
+Central US,2016-01-10,sales,826.7527705000002,RandomForestRegressor,10
+Central US,2016-01-11,sales,147.64233400000003,RandomForestRegressor,11
+Central US,2016-01-12,sales,635.0439110000003,RandomForestRegressor,12
+Central US,2016-01-13,sales,501.40016499999933,RandomForestRegressor,13
+Central US,2016-01-14,sales,627.3101954999996,RandomForestRegressor,14
+Central US,2016-01-15,sales,963.9473070000012,RandomForestRegressor,15
+Central US,2016-01-16,sales,928.5968920000013,RandomForestRegressor,16
+Central US,2016-01-17,sales,1515.9251835000005,RandomForestRegressor,17
+Central US,2016-01-18,sales,402.7887844999999,RandomForestRegressor,18
+Central US,2016-01-19,sales,704.7656755,RandomForestRegressor,19
+Central US,2016-01-20,sales,1385.5834645000007,RandomForestRegressor,20
+Central US,2016-01-21,sales,873.5603915000002,RandomForestRegressor,21
+Central US,2016-01-22,sales,1252.3474834999988,RandomForestRegressor,22
+Central US,2016-01-23,sales,1247.9852304999993,RandomForestRegressor,23
+Central US,2016-01-24,sales,1577.5282365000003,RandomForestRegressor,24
+Central US,2016-01-25,sales,503.73177050000044,RandomForestRegressor,25
+Central US,2016-01-26,sales,1026.7656455000001,RandomForestRegressor,26
+Central US,2016-01-27,sales,1081.3248094999992,RandomForestRegressor,27
+Central US,2016-01-28,sales,1023.9029165000004,RandomForestRegressor,28
+Eastern Africa,2016-01-01,sales,551.092650000001,RandomForestRegressor,1
+Eastern Africa,2016-01-02,sales,627.2588775000015,RandomForestRegressor,2
+Eastern Africa,2016-01-03,sales,450.091815,RandomForestRegressor,3
+Eastern Africa,2016-01-04,sales,192.0166125,RandomForestRegressor,4
+Eastern Africa,2016-01-05,sales,331.56183000000004,RandomForestRegressor,5
+Eastern Africa,2016-01-06,sales,520.3815374999996,RandomForestRegressor,6
+Eastern Africa,2016-01-07,sales,563.9753399999993,RandomForestRegressor,7
+Eastern Africa,2016-01-08,sales,548.1270524999995,RandomForestRegressor,8
+Eastern Africa,2016-01-09,sales,526.4960774999993,RandomForestRegressor,9
+Eastern Africa,2016-01-10,sales,781.5408374999992,RandomForestRegressor,10
+Eastern Africa,2016-01-11,sales,432.5793675000001,RandomForestRegressor,11
+Eastern Africa,2016-01-12,sales,706.4000249999996,RandomForestRegressor,12
+Eastern Africa,2016-01-13,sales,678.4298024999998,RandomForestRegressor,13
+Eastern Africa,2016-01-14,sales,696.7908525000001,RandomForestRegressor,14
+Eastern Africa,2016-01-15,sales,803.0579700000001,RandomForestRegressor,15
+Eastern Africa,2016-01-16,sales,844.9691475,RandomForestRegressor,16
+Eastern Africa,2016-01-17,sales,868.0532325000001,RandomForestRegressor,17
+Eastern Africa,2016-01-18,sales,487.3220625,RandomForestRegressor,18
+Eastern Africa,2016-01-19,sales,861.9368250000007,RandomForestRegressor,19
+Eastern Africa,2016-01-20,sales,934.9041675000007,RandomForestRegressor,20
+Eastern Africa,2016-01-21,sales,1025.3301750000003,RandomForestRegressor,21
+Eastern Africa,2016-01-22,sales,1046.1891750000007,RandomForestRegressor,22
+Eastern Africa,2016-01-23,sales,864.5305574999998,RandomForestRegressor,23
+Eastern Africa,2016-01-24,sales,1162.6038450000012,RandomForestRegressor,24
+Eastern Africa,2016-01-25,sales,497.26449750000046,RandomForestRegressor,25
+Eastern Africa,2016-01-26,sales,1033.5223425000001,RandomForestRegressor,26
+Eastern Africa,2016-01-27,sales,1010.1592049999999,RandomForestRegressor,27
+Eastern Africa,2016-01-28,sales,1071.6901950000006,RandomForestRegressor,28
+Eastern Asia,2016-01-01,sales,970.5801899999992,RandomForestRegressor,1
+Eastern Asia,2016-01-02,sales,1321.3756124999998,RandomForestRegressor,2
+Eastern Asia,2016-01-03,sales,964.2301424999995,RandomForestRegressor,3
+Eastern Asia,2016-01-04,sales,33.43348499999999,RandomForestRegressor,4
+Eastern Asia,2016-01-05,sales,749.2422824999993,RandomForestRegressor,5
+Eastern Asia,2016-01-06,sales,519.5261399999998,RandomForestRegressor,6
+Eastern Asia,2016-01-07,sales,623.8120274999998,RandomForestRegressor,7
+Eastern Asia,2016-01-08,sales,643.0000949999996,RandomForestRegressor,8
+Eastern Asia,2016-01-09,sales,1423.7027850000006,RandomForestRegressor,9
+Eastern Asia,2016-01-10,sales,1647.6910349999994,RandomForestRegressor,10
+Eastern Asia,2016-01-11,sales,61.00064999999999,RandomForestRegressor,11
+Eastern Asia,2016-01-12,sales,1037.9957925000003,RandomForestRegressor,12
+Eastern Asia,2016-01-13,sales,1265.5544100000004,RandomForestRegressor,13
+Eastern Asia,2016-01-14,sales,1553.907389999999,RandomForestRegressor,14
+Eastern Asia,2016-01-15,sales,1644.0469349999987,RandomForestRegressor,15
+Eastern Asia,2016-01-16,sales,1607.6095124999995,RandomForestRegressor,16
+Eastern Asia,2016-01-17,sales,1677.749054999999,RandomForestRegressor,17
+Eastern Asia,2016-01-18,sales,245.86895249999998,RandomForestRegressor,18
+Eastern Asia,2016-01-19,sales,1349.2068225,RandomForestRegressor,19
+Eastern Asia,2016-01-20,sales,1701.560077499997,RandomForestRegressor,20
+Eastern Asia,2016-01-21,sales,1821.4180349999979,RandomForestRegressor,21
+Eastern Asia,2016-01-22,sales,1741.7643074999976,RandomForestRegressor,22
+Eastern Asia,2016-01-23,sales,1672.28796,RandomForestRegressor,23
+Eastern Asia,2016-01-24,sales,1699.404644999998,RandomForestRegressor,24
+Eastern Asia,2016-01-25,sales,442.05145500000003,RandomForestRegressor,25
+Eastern Asia,2016-01-26,sales,1307.9311799999998,RandomForestRegressor,26
+Eastern Asia,2016-01-27,sales,1472.9064449999996,RandomForestRegressor,27
+Eastern Asia,2016-01-28,sales,1741.5080324999983,RandomForestRegressor,28
+Eastern Europe,2016-01-01,sales,577.0090500000002,RandomForestRegressor,1
+Eastern Europe,2016-01-02,sales,491.31449999999995,RandomForestRegressor,2
+Eastern Europe,2016-01-03,sales,892.0676250000013,RandomForestRegressor,3
+Eastern Europe,2016-01-04,sales,96.11940000000004,RandomForestRegressor,4
+Eastern Europe,2016-01-05,sales,340.30800000000005,RandomForestRegressor,5
+Eastern Europe,2016-01-06,sales,372.2825249999998,RandomForestRegressor,6
+Eastern Europe,2016-01-07,sales,380.57325,RandomForestRegressor,7
+Eastern Europe,2016-01-08,sales,360.7217999999997,RandomForestRegressor,8
+Eastern Europe,2016-01-09,sales,319.3668750000003,RandomForestRegressor,9
+Eastern Europe,2016-01-10,sales,1044.2562,RandomForestRegressor,10
+Eastern Europe,2016-01-11,sales,269.3232750000002,RandomForestRegressor,11
+Eastern Europe,2016-01-12,sales,415.1051999999998,RandomForestRegressor,12
+Eastern Europe,2016-01-13,sales,438.367425,RandomForestRegressor,13
+Eastern Europe,2016-01-14,sales,457.995075,RandomForestRegressor,14
+Eastern Europe,2016-01-15,sales,546.1205249999998,RandomForestRegressor,15
+Eastern Europe,2016-01-16,sales,626.0031000000004,RandomForestRegressor,16
+Eastern Europe,2016-01-17,sales,1329.2764500000008,RandomForestRegressor,17
+Eastern Europe,2016-01-18,sales,684.0330000000004,RandomForestRegressor,18
+Eastern Europe,2016-01-19,sales,711.2662500000005,RandomForestRegressor,19
+Eastern Europe,2016-01-20,sales,683.2965000000005,RandomForestRegressor,20
+Eastern Europe,2016-01-21,sales,766.135125,RandomForestRegressor,21
+Eastern Europe,2016-01-22,sales,742.982325,RandomForestRegressor,22
+Eastern Europe,2016-01-23,sales,747.5024250000001,RandomForestRegressor,23
+Eastern Europe,2016-01-24,sales,1383.5496750000007,RandomForestRegressor,24
+Eastern Europe,2016-01-25,sales,1161.7483499999998,RandomForestRegressor,25
+Eastern Europe,2016-01-26,sales,1959.3713999999986,RandomForestRegressor,26
+Eastern Europe,2016-01-27,sales,2172.910949999995,RandomForestRegressor,27
+Eastern Europe,2016-01-28,sales,2174.1717749999957,RandomForestRegressor,28
+Eastern US,2016-01-01,sales,3804.109027500001,RandomForestRegressor,1
+Eastern US,2016-01-02,sales,4237.587732500007,RandomForestRegressor,2
+Eastern US,2016-01-03,sales,2176.394617499999,RandomForestRegressor,3
+Eastern US,2016-01-04,sales,981.9318400000006,RandomForestRegressor,4
+Eastern US,2016-01-05,sales,2798.212554999999,RandomForestRegressor,5
+Eastern US,2016-01-06,sales,596.886835,RandomForestRegressor,6
+Eastern US,2016-01-07,sales,1029.9870200000005,RandomForestRegressor,7
+Eastern US,2016-01-08,sales,1849.6305424999996,RandomForestRegressor,8
+Eastern US,2016-01-09,sales,3709.738395,RandomForestRegressor,9
+Eastern US,2016-01-10,sales,820.4731124999998,RandomForestRegressor,10
+Eastern US,2016-01-11,sales,1613.587935,RandomForestRegressor,11
+Eastern US,2016-01-12,sales,1830.3145249999995,RandomForestRegressor,12
+Eastern US,2016-01-13,sales,1602.6640149999998,RandomForestRegressor,13
+Eastern US,2016-01-14,sales,908.5723049999992,RandomForestRegressor,14
+Eastern US,2016-01-15,sales,1325.8063649999997,RandomForestRegressor,15
+Eastern US,2016-01-16,sales,2194.7941425,RandomForestRegressor,16
+Eastern US,2016-01-17,sales,1010.2342849999993,RandomForestRegressor,17
+Eastern US,2016-01-18,sales,898.0513924999999,RandomForestRegressor,18
+Eastern US,2016-01-19,sales,1829.0438824999997,RandomForestRegressor,19
+Eastern US,2016-01-20,sales,964.8985875000003,RandomForestRegressor,20
+Eastern US,2016-01-21,sales,1952.2886000000005,RandomForestRegressor,21
+Eastern US,2016-01-22,sales,2287.3285550000005,RandomForestRegressor,22
+Eastern US,2016-01-23,sales,3124.7986849999975,RandomForestRegressor,23
+Eastern US,2016-01-24,sales,1827.7284124999996,RandomForestRegressor,24
+Eastern US,2016-01-25,sales,2234.8123724999987,RandomForestRegressor,25
+Eastern US,2016-01-26,sales,2843.731075000001,RandomForestRegressor,26
+Eastern US,2016-01-27,sales,1542.3837874999983,RandomForestRegressor,27
+Eastern US,2016-01-28,sales,3055.530904999999,RandomForestRegressor,28
+North Africa,2016-01-01,sales,521.0527499999996,RandomForestRegressor,1
+North Africa,2016-01-02,sales,766.41015,RandomForestRegressor,2
+North Africa,2016-01-03,sales,625.4068500000003,RandomForestRegressor,3
+North Africa,2016-01-04,sales,220.470675,RandomForestRegressor,4
+North Africa,2016-01-05,sales,683.3522249999992,RandomForestRegressor,5
+North Africa,2016-01-06,sales,562.4791499999997,RandomForestRegressor,6
+North Africa,2016-01-07,sales,516.9617999999996,RandomForestRegressor,7
+North Africa,2016-01-08,sales,750.9135749999991,RandomForestRegressor,8
+North Africa,2016-01-09,sales,494.89057499999996,RandomForestRegressor,9
+North Africa,2016-01-10,sales,645.820125,RandomForestRegressor,10
+North Africa,2016-01-11,sales,369.8075249999999,RandomForestRegressor,11
+North Africa,2016-01-12,sales,833.026349999999,RandomForestRegressor,12
+North Africa,2016-01-13,sales,678.8111999999996,RandomForestRegressor,13
+North Africa,2016-01-14,sales,612.600825,RandomForestRegressor,14
+North Africa,2016-01-15,sales,845.7159749999988,RandomForestRegressor,15
+North Africa,2016-01-16,sales,865.5920249999984,RandomForestRegressor,16
+North Africa,2016-01-17,sales,817.2505499999987,RandomForestRegressor,17
+North Africa,2016-01-18,sales,449.55599999999976,RandomForestRegressor,18
+North Africa,2016-01-19,sales,984.5354249999987,RandomForestRegressor,19
+North Africa,2016-01-20,sales,819.7265249999988,RandomForestRegressor,20
+North Africa,2016-01-21,sales,649.8395249999998,RandomForestRegressor,21
+North Africa,2016-01-22,sales,846.209774999999,RandomForestRegressor,22
+North Africa,2016-01-23,sales,773.022449999999,RandomForestRegressor,23
+North Africa,2016-01-24,sales,799.8853499999989,RandomForestRegressor,24
+North Africa,2016-01-25,sales,608.9549249999997,RandomForestRegressor,25
+North Africa,2016-01-26,sales,992.3372249999987,RandomForestRegressor,26
+North Africa,2016-01-27,sales,927.8567249999984,RandomForestRegressor,27
+North Africa,2016-01-28,sales,751.4021249999989,RandomForestRegressor,28
+Northern Europe,2016-01-01,sales,913.6529775000007,RandomForestRegressor,1
+Northern Europe,2016-01-02,sales,680.5589325000005,RandomForestRegressor,2
+Northern Europe,2016-01-03,sales,592.0564800000004,RandomForestRegressor,3
+Northern Europe,2016-01-04,sales,240.15203999999997,RandomForestRegressor,4
+Northern Europe,2016-01-05,sales,819.8019225000008,RandomForestRegressor,5
+Northern Europe,2016-01-06,sales,1142.862,RandomForestRegressor,6
+Northern Europe,2016-01-07,sales,901.2213675000011,RandomForestRegressor,7
+Northern Europe,2016-01-08,sales,990.8079300000006,RandomForestRegressor,8
+Northern Europe,2016-01-09,sales,939.5996550000015,RandomForestRegressor,9
+Northern Europe,2016-01-10,sales,848.9662199999993,RandomForestRegressor,10
+Northern Europe,2016-01-11,sales,617.4137774999998,RandomForestRegressor,11
+Northern Europe,2016-01-12,sales,1367.3763375000012,RandomForestRegressor,12
+Northern Europe,2016-01-13,sales,1443.6873,RandomForestRegressor,13
+Northern Europe,2016-01-14,sales,1245.9637350000025,RandomForestRegressor,14
+Northern Europe,2016-01-15,sales,1079.8597425000014,RandomForestRegressor,15
+Northern Europe,2016-01-16,sales,1259.2497825000019,RandomForestRegressor,16
+Northern Europe,2016-01-17,sales,1264.3995300000022,RandomForestRegressor,17
+Northern Europe,2016-01-18,sales,1139.2522125000019,RandomForestRegressor,18
+Northern Europe,2016-01-19,sales,2336.7866999999987,RandomForestRegressor,19
+Northern Europe,2016-01-20,sales,1440.5747025000012,RandomForestRegressor,20
+Northern Europe,2016-01-21,sales,1733.0191575,RandomForestRegressor,21
+Northern Europe,2016-01-22,sales,1798.2353325000001,RandomForestRegressor,22
+Northern Europe,2016-01-23,sales,1633.9090575000002,RandomForestRegressor,23
+Northern Europe,2016-01-24,sales,1659.8081100000004,RandomForestRegressor,24
+Northern Europe,2016-01-25,sales,1503.9829200000001,RandomForestRegressor,25
+Northern Europe,2016-01-26,sales,2315.2821300000023,RandomForestRegressor,26
+Northern Europe,2016-01-27,sales,1790.4609450000023,RandomForestRegressor,27
+Northern Europe,2016-01-28,sales,1685.1708225000011,RandomForestRegressor,28
+Oceania,2015-12-31,sales,1076.4569549999999,RandomForestRegressor,1
+Oceania,2016-01-01,sales,1532.3944800000004,RandomForestRegressor,2
+Oceania,2016-01-02,sales,1539.5908949999994,RandomForestRegressor,3
+Oceania,2016-01-03,sales,1131.1393125000002,RandomForestRegressor,4
+Oceania,2016-01-04,sales,541.8189449999977,RandomForestRegressor,5
+Oceania,2016-01-05,sales,1295.6888250000006,RandomForestRegressor,6
+Oceania,2016-01-06,sales,1837.7929499999993,RandomForestRegressor,7
+Oceania,2016-01-07,sales,1358.1570150000011,RandomForestRegressor,8
+Oceania,2016-01-08,sales,2082.2170950000022,RandomForestRegressor,9
+Oceania,2016-01-09,sales,2189.3990025,RandomForestRegressor,10
+Oceania,2016-01-10,sales,1225.8595424999999,RandomForestRegressor,11
+Oceania,2016-01-11,sales,586.1459925000006,RandomForestRegressor,12
+Oceania,2016-01-12,sales,2282.425072500001,RandomForestRegressor,13
+Oceania,2016-01-13,sales,2526.0463350000014,RandomForestRegressor,14
+Oceania,2016-01-14,sales,2438.3558175000016,RandomForestRegressor,15
+Oceania,2016-01-15,sales,2774.2822200000005,RandomForestRegressor,16
+Oceania,2016-01-16,sales,2518.811580000001,RandomForestRegressor,17
+Oceania,2016-01-17,sales,1659.0183449999977,RandomForestRegressor,18
+Oceania,2016-01-18,sales,1275.6911249999991,RandomForestRegressor,19
+Oceania,2016-01-19,sales,2706.0421500000007,RandomForestRegressor,20
+Oceania,2016-01-20,sales,2975.036819999998,RandomForestRegressor,21
+Oceania,2016-01-21,sales,2698.959195000003,RandomForestRegressor,22
+Oceania,2016-01-22,sales,2725.3159649999993,RandomForestRegressor,23
+Oceania,2016-01-23,sales,2606.0212500000007,RandomForestRegressor,24
+Oceania,2016-01-24,sales,1887.2367299999992,RandomForestRegressor,25
+Oceania,2016-01-25,sales,1713.4859100000021,RandomForestRegressor,26
+Oceania,2016-01-26,sales,2736.574582500001,RandomForestRegressor,27
+Oceania,2016-01-27,sales,2843.5286475000003,RandomForestRegressor,28
+South America,2016-01-01,sales,1088.805663000001,RandomForestRegressor,1
+South America,2016-01-02,sales,894.5748449,RandomForestRegressor,2
+South America,2016-01-03,sales,1074.6101102999994,RandomForestRegressor,3
+South America,2016-01-04,sales,293.6008851,RandomForestRegressor,4
+South America,2016-01-05,sales,904.7321451000006,RandomForestRegressor,5
+South America,2016-01-06,sales,792.9729067999999,RandomForestRegressor,6
+South America,2016-01-07,sales,784.8098762000003,RandomForestRegressor,7
+South America,2016-01-08,sales,775.3391968999999,RandomForestRegressor,8
+South America,2016-01-09,sales,1093.0772248999997,RandomForestRegressor,9
+South America,2016-01-10,sales,861.1639203999996,RandomForestRegressor,10
+South America,2016-01-11,sales,510.7257750999998,RandomForestRegressor,11
+South America,2016-01-12,sales,1274.9625835,RandomForestRegressor,12
+South America,2016-01-13,sales,1358.053474800001,RandomForestRegressor,13
+South America,2016-01-14,sales,1158.906746800001,RandomForestRegressor,14
+South America,2016-01-15,sales,1109.6107417000003,RandomForestRegressor,15
+South America,2016-01-16,sales,1298.7646656000009,RandomForestRegressor,16
+South America,2016-01-17,sales,1493.800355900001,RandomForestRegressor,17
+South America,2016-01-18,sales,782.7222151999996,RandomForestRegressor,18
+South America,2016-01-19,sales,1796.0748320000002,RandomForestRegressor,19
+South America,2016-01-20,sales,1479.1035412000012,RandomForestRegressor,20
+South America,2016-01-21,sales,1429.1245691000015,RandomForestRegressor,21
+South America,2016-01-22,sales,1470.6453085000016,RandomForestRegressor,22
+South America,2016-01-23,sales,1500.5485717000015,RandomForestRegressor,23
+South America,2016-01-24,sales,1508.9049118000007,RandomForestRegressor,24
+South America,2016-01-25,sales,1039.9028242000015,RandomForestRegressor,25
+South America,2016-01-26,sales,1861.4110986000003,RandomForestRegressor,26
+South America,2016-01-27,sales,1789.0624162000013,RandomForestRegressor,27
+South America,2016-01-28,sales,1464.2792079000012,RandomForestRegressor,28
+Southeastern Asia,2016-01-01,sales,1301.1471202500002,RandomForestRegressor,1
+Southeastern Asia,2016-01-02,sales,1454.5777889999997,RandomForestRegressor,2
+Southeastern Asia,2016-01-03,sales,1078.2365114999996,RandomForestRegressor,3
+Southeastern Asia,2016-01-04,sales,61.295331000000076,RandomForestRegressor,4
+Southeastern Asia,2016-01-05,sales,1080.7103647499998,RandomForestRegressor,5
+Southeastern Asia,2016-01-06,sales,1022.5733235,RandomForestRegressor,6
+Southeastern Asia,2016-01-07,sales,1143.4685115,RandomForestRegressor,7
+Southeastern Asia,2016-01-08,sales,803.8976505,RandomForestRegressor,8
+Southeastern Asia,2016-01-09,sales,1010.4738659999997,RandomForestRegressor,9
+Southeastern Asia,2016-01-10,sales,918.8682952500006,RandomForestRegressor,10
+Southeastern Asia,2016-01-11,sales,88.23672750000016,RandomForestRegressor,11
+Southeastern Asia,2016-01-12,sales,1083.78471675,RandomForestRegressor,12
+Southeastern Asia,2016-01-13,sales,1640.371602749999,RandomForestRegressor,13
+Southeastern Asia,2016-01-14,sales,1682.5400789999992,RandomForestRegressor,14
+Southeastern Asia,2016-01-15,sales,1217.1731242500018,RandomForestRegressor,15
+Southeastern Asia,2016-01-16,sales,1173.2456467500006,RandomForestRegressor,16
+Southeastern Asia,2016-01-17,sales,1137.4055475000016,RandomForestRegressor,17
+Southeastern Asia,2016-01-18,sales,135.04128300000005,RandomForestRegressor,18
+Southeastern Asia,2016-01-19,sales,1308.6346747500006,RandomForestRegressor,19
+Southeastern Asia,2016-01-20,sales,1431.6710377499983,RandomForestRegressor,20
+Southeastern Asia,2016-01-21,sales,1413.8420227499983,RandomForestRegressor,21
+Southeastern Asia,2016-01-22,sales,1125.5762324999996,RandomForestRegressor,22
+Southeastern Asia,2016-01-23,sales,1201.4321714999996,RandomForestRegressor,23
+Southeastern Asia,2016-01-24,sales,838.7801055000009,RandomForestRegressor,24
+Southeastern Asia,2016-01-25,sales,159.6377032500001,RandomForestRegressor,25
+Southeastern Asia,2016-01-26,sales,1364.04865725,RandomForestRegressor,26
+Southeastern Asia,2016-01-27,sales,1379.2929547499991,RandomForestRegressor,27
+Southeastern Asia,2016-01-28,sales,1440.8594677499996,RandomForestRegressor,28
+Southern Africa,2015-12-25,sales,72.29594999999996,RandomForestRegressor,1
+Southern Africa,2015-12-26,sales,87.41107499999998,RandomForestRegressor,2
+Southern Africa,2015-12-27,sales,85.29224999999995,RandomForestRegressor,3
+Southern Africa,2015-12-28,sales,36.62204999999999,RandomForestRegressor,4
+Southern Africa,2015-12-29,sales,114.54255000000003,RandomForestRegressor,5
+Southern Africa,2015-12-30,sales,56.334674999999976,RandomForestRegressor,6
+Southern Africa,2015-12-31,sales,157.00462500000006,RandomForestRegressor,7
+Southern Africa,2016-01-01,sales,142.21350000000012,RandomForestRegressor,8
+Southern Africa,2016-01-02,sales,165.926325,RandomForestRegressor,9
+Southern Africa,2016-01-03,sales,203.11484999999996,RandomForestRegressor,10
+Southern Africa,2016-01-04,sales,150.07904999999994,RandomForestRegressor,11
+Southern Africa,2016-01-05,sales,236.3281499999998,RandomForestRegressor,12
+Southern Africa,2016-01-06,sales,158.78047500000005,RandomForestRegressor,13
+Southern Africa,2016-01-07,sales,179.07622499999997,RandomForestRegressor,14
+Southern Africa,2016-01-08,sales,195.6941249999999,RandomForestRegressor,15
+Southern Africa,2016-01-09,sales,1086.7544999999984,RandomForestRegressor,16
+Southern Africa,2016-01-10,sales,619.2335999999997,RandomForestRegressor,17
+Southern Africa,2016-01-11,sales,64.89907500000001,RandomForestRegressor,18
+Southern Africa,2016-01-12,sales,267.7455750000001,RandomForestRegressor,19
+Southern Africa,2016-01-13,sales,94.42515000000007,RandomForestRegressor,20
+Southern Africa,2016-01-14,sales,156.6932250000001,RandomForestRegressor,21
+Southern Africa,2016-01-15,sales,187.16917500000002,RandomForestRegressor,22
+Southern Africa,2016-01-16,sales,212.8985249999999,RandomForestRegressor,23
+Southern Africa,2016-01-17,sales,329.2661999999995,RandomForestRegressor,24
+Southern Africa,2016-01-18,sales,180.27209999999997,RandomForestRegressor,25
+Southern Africa,2016-01-19,sales,285.6692249999998,RandomForestRegressor,26
+Southern Africa,2016-01-20,sales,253.71824999999993,RandomForestRegressor,27
+Southern Africa,2016-01-21,sales,226.10047499999996,RandomForestRegressor,28
+Southern Asia,2016-01-01,sales,1019.8477350000003,RandomForestRegressor,1
+Southern Asia,2016-01-02,sales,921.1472475000006,RandomForestRegressor,2
+Southern Asia,2016-01-03,sales,827.5941374999999,RandomForestRegressor,3
+Southern Asia,2016-01-04,sales,67.95075000000001,RandomForestRegressor,4
+Southern Asia,2016-01-05,sales,532.6263674999989,RandomForestRegressor,5
+Southern Asia,2016-01-06,sales,614.7746099999995,RandomForestRegressor,6
+Southern Asia,2016-01-07,sales,864.9477899999995,RandomForestRegressor,7
+Southern Asia,2016-01-08,sales,1044.0651750000002,RandomForestRegressor,8
+Southern Asia,2016-01-09,sales,1441.819530000001,RandomForestRegressor,9
+Southern Asia,2016-01-10,sales,1150.1580150000007,RandomForestRegressor,10
+Southern Asia,2016-01-11,sales,345.7280624999998,RandomForestRegressor,11
+Southern Asia,2016-01-12,sales,842.0460149999998,RandomForestRegressor,12
+Southern Asia,2016-01-13,sales,1233.1728150000008,RandomForestRegressor,13
+Southern Asia,2016-01-14,sales,1597.3515900000007,RandomForestRegressor,14
+Southern Asia,2016-01-15,sales,1611.3118574999999,RandomForestRegressor,15
+Southern Asia,2016-01-16,sales,1542.618952500001,RandomForestRegressor,16
+Southern Asia,2016-01-17,sales,1363.1406000000009,RandomForestRegressor,17
+Southern Asia,2016-01-18,sales,487.7319299999996,RandomForestRegressor,18
+Southern Asia,2016-01-19,sales,1442.5915125000008,RandomForestRegressor,19
+Southern Asia,2016-01-20,sales,1650.9200549999996,RandomForestRegressor,20
+Southern Asia,2016-01-21,sales,1935.716385000002,RandomForestRegressor,21
+Southern Asia,2016-01-22,sales,1764.669645,RandomForestRegressor,22
+Southern Asia,2016-01-23,sales,2062.061692500001,RandomForestRegressor,23
+Southern Asia,2016-01-24,sales,2237.762242500001,RandomForestRegressor,24
+Southern Asia,2016-01-25,sales,717.164085,RandomForestRegressor,25
+Southern Asia,2016-01-26,sales,1942.1121750000018,RandomForestRegressor,26
+Southern Asia,2016-01-27,sales,2056.3400100000017,RandomForestRegressor,27
+Southern Asia,2016-01-28,sales,2165.76465,RandomForestRegressor,28
+Southern Europe,2016-01-01,sales,627.8588325000005,RandomForestRegressor,1
+Southern Europe,2016-01-02,sales,807.2475900000001,RandomForestRegressor,2
+Southern Europe,2016-01-03,sales,734.2044000000006,RandomForestRegressor,3
+Southern Europe,2016-01-04,sales,155.40502500000005,RandomForestRegressor,4
+Southern Europe,2016-01-05,sales,879.7599225000001,RandomForestRegressor,5
+Southern Europe,2016-01-06,sales,967.3013700000001,RandomForestRegressor,6
+Southern Europe,2016-01-07,sales,985.6781850000002,RandomForestRegressor,7
+Southern Europe,2016-01-08,sales,1265.4922125000005,RandomForestRegressor,8
+Southern Europe,2016-01-09,sales,1048.0913775000004,RandomForestRegressor,9
+Southern Europe,2016-01-10,sales,1120.9010775,RandomForestRegressor,10
+Southern Europe,2016-01-11,sales,162.8416125,RandomForestRegressor,11
+Southern Europe,2016-01-12,sales,1033.0741200000011,RandomForestRegressor,12
+Southern Europe,2016-01-13,sales,948.6095775000009,RandomForestRegressor,13
+Southern Europe,2016-01-14,sales,913.2593925000006,RandomForestRegressor,14
+Southern Europe,2016-01-15,sales,1082.7267600000002,RandomForestRegressor,15
+Southern Europe,2016-01-16,sales,2906.4354749999925,RandomForestRegressor,16
+Southern Europe,2016-01-17,sales,604.7830725000003,RandomForestRegressor,17
+Southern Europe,2016-01-18,sales,197.57400750000048,RandomForestRegressor,18
+Southern Europe,2016-01-19,sales,534.7503975000003,RandomForestRegressor,19
+Southern Europe,2016-01-20,sales,776.7149025,RandomForestRegressor,20
+Southern Europe,2016-01-21,sales,1042.8200099999997,RandomForestRegressor,21
+Southern Europe,2016-01-22,sales,667.8062175000009,RandomForestRegressor,22
+Southern Europe,2016-01-23,sales,904.8935099999992,RandomForestRegressor,23
+Southern Europe,2016-01-24,sales,917.8605449999992,RandomForestRegressor,24
+Southern Europe,2016-01-25,sales,52.92924,RandomForestRegressor,25
+Southern Europe,2016-01-26,sales,1019.3142525,RandomForestRegressor,26
+Southern Europe,2016-01-27,sales,773.1542999999998,RandomForestRegressor,27
+Southern Europe,2016-01-28,sales,813.5602274999999,RandomForestRegressor,28
+Southern US,2015-12-31,sales,1248.1116587499978,RandomForestRegressor,1
+Southern US,2016-01-01,sales,726.3779675000001,RandomForestRegressor,2
+Southern US,2016-01-02,sales,812.1098537500001,RandomForestRegressor,3
+Southern US,2016-01-03,sales,734.4484737500011,RandomForestRegressor,4
+Southern US,2016-01-04,sales,133.9015925,RandomForestRegressor,5
+Southern US,2016-01-05,sales,505.1094762500003,RandomForestRegressor,6
+Southern US,2016-01-06,sales,443.3229337500002,RandomForestRegressor,7
+Southern US,2016-01-07,sales,1609.489444999999,RandomForestRegressor,8
+Southern US,2016-01-08,sales,1586.0058737499992,RandomForestRegressor,9
+Southern US,2016-01-09,sales,1044.80102125,RandomForestRegressor,10
+Southern US,2016-01-10,sales,580.6590150000005,RandomForestRegressor,11
+Southern US,2016-01-11,sales,137.62917750000003,RandomForestRegressor,12
+Southern US,2016-01-12,sales,567.3750812500001,RandomForestRegressor,13
+Southern US,2016-01-13,sales,506.0284500000003,RandomForestRegressor,14
+Southern US,2016-01-14,sales,709.7483212500007,RandomForestRegressor,15
+Southern US,2016-01-15,sales,1811.5971787499998,RandomForestRegressor,16
+Southern US,2016-01-16,sales,482.98614375000005,RandomForestRegressor,17
+Southern US,2016-01-17,sales,1050.649987499999,RandomForestRegressor,18
+Southern US,2016-01-18,sales,211.4276074999999,RandomForestRegressor,19
+Southern US,2016-01-19,sales,633.6741362500001,RandomForestRegressor,20
+Southern US,2016-01-20,sales,1102.2961787499994,RandomForestRegressor,21
+Southern US,2016-01-21,sales,1105.9858800000002,RandomForestRegressor,22
+Southern US,2016-01-22,sales,820.1269625,RandomForestRegressor,23
+Southern US,2016-01-23,sales,1802.6447362499994,RandomForestRegressor,24
+Southern US,2016-01-24,sales,525.594445,RandomForestRegressor,25
+Southern US,2016-01-25,sales,458.57054750000003,RandomForestRegressor,26
+Southern US,2016-01-26,sales,1571.1856187499998,RandomForestRegressor,27
+Southern US,2016-01-27,sales,1013.10212875,RandomForestRegressor,28
+Western Africa,2015-12-31,sales,1577.5979924999992,RandomForestRegressor,1
+Western Africa,2016-01-01,sales,313.45707750000014,RandomForestRegressor,2
+Western Africa,2016-01-02,sales,380.05092000000053,RandomForestRegressor,3
+Western Africa,2016-01-03,sales,205.90827,RandomForestRegressor,4
+Western Africa,2016-01-04,sales,51.14202750000001,RandomForestRegressor,5
+Western Africa,2016-01-05,sales,193.2227549999998,RandomForestRegressor,6
+Western Africa,2016-01-06,sales,191.27870249999987,RandomForestRegressor,7
+Western Africa,2016-01-07,sales,246.8199750000001,RandomForestRegressor,8
+Western Africa,2016-01-08,sales,149.07945750000005,RandomForestRegressor,9
+Western Africa,2016-01-09,sales,182.92337999999978,RandomForestRegressor,10
+Western Africa,2016-01-10,sales,256.40068499999984,RandomForestRegressor,11
+Western Africa,2016-01-11,sales,50.0944125,RandomForestRegressor,12
+Western Africa,2016-01-12,sales,181.4327924999999,RandomForestRegressor,13
+Western Africa,2016-01-13,sales,242.8729349999998,RandomForestRegressor,14
+Western Africa,2016-01-14,sales,206.34137999999984,RandomForestRegressor,15
+Western Africa,2016-01-15,sales,194.78775750000008,RandomForestRegressor,16
+Western Africa,2016-01-16,sales,256.2167175000004,RandomForestRegressor,17
+Western Africa,2016-01-17,sales,215.02703250000005,RandomForestRegressor,18
+Western Africa,2016-01-18,sales,60.51256500000005,RandomForestRegressor,19
+Western Africa,2016-01-19,sales,212.6569875000001,RandomForestRegressor,20
+Western Africa,2016-01-20,sales,230.5994174999999,RandomForestRegressor,21
+Western Africa,2016-01-21,sales,263.2568774999998,RandomForestRegressor,22
+Western Africa,2016-01-22,sales,223.0595774999999,RandomForestRegressor,23
+Western Africa,2016-01-23,sales,205.18136250000003,RandomForestRegressor,24
+Western Africa,2016-01-24,sales,226.69195499999998,RandomForestRegressor,25
+Western Africa,2016-01-25,sales,66.50474250000003,RandomForestRegressor,26
+Western Africa,2016-01-26,sales,219.71787750000007,RandomForestRegressor,27
+Western Africa,2016-01-27,sales,264.60935250000034,RandomForestRegressor,28
+Western Asia,2016-01-01,sales,671.3069699999993,RandomForestRegressor,1
+Western Asia,2016-01-02,sales,748.4224199999994,RandomForestRegressor,2
+Western Asia,2016-01-03,sales,870.63144,RandomForestRegressor,3
+Western Asia,2016-01-04,sales,716.9377949999994,RandomForestRegressor,4
+Western Asia,2016-01-05,sales,973.4521200000006,RandomForestRegressor,5
+Western Asia,2016-01-06,sales,801.5618099999991,RandomForestRegressor,6
+Western Asia,2016-01-07,sales,744.1991999999996,RandomForestRegressor,7
+Western Asia,2016-01-08,sales,724.8650699999988,RandomForestRegressor,8
+Western Asia,2016-01-09,sales,818.5237349999993,RandomForestRegressor,9
+Western Asia,2016-01-10,sales,716.0797799999989,RandomForestRegressor,10
+Western Asia,2016-01-11,sales,767.4441149999996,RandomForestRegressor,11
+Western Asia,2016-01-12,sales,819.1531949999996,RandomForestRegressor,12
+Western Asia,2016-01-13,sales,963.9027599999995,RandomForestRegressor,13
+Western Asia,2016-01-14,sales,1007.9327849999987,RandomForestRegressor,14
+Western Asia,2016-01-15,sales,1047.6793499999999,RandomForestRegressor,15
+Western Asia,2016-01-16,sales,1016.7794549999995,RandomForestRegressor,16
+Western Asia,2016-01-17,sales,1054.956164999999,RandomForestRegressor,17
+Western Asia,2016-01-18,sales,964.0099199999995,RandomForestRegressor,18
+Western Asia,2016-01-19,sales,1157.4832349999992,RandomForestRegressor,19
+Western Asia,2016-01-20,sales,998.4697649999994,RandomForestRegressor,20
+Western Asia,2016-01-21,sales,1017.9281699999992,RandomForestRegressor,21
+Western Asia,2016-01-22,sales,1016.2983899999984,RandomForestRegressor,22
+Western Asia,2016-01-23,sales,1024.562489999998,RandomForestRegressor,23
+Western Asia,2016-01-24,sales,1077.6566699999985,RandomForestRegressor,24
+Western Asia,2016-01-25,sales,852.8134499999998,RandomForestRegressor,25
+Western Asia,2016-01-26,sales,1205.5582049999973,RandomForestRegressor,26
+Western Asia,2016-01-27,sales,1372.3344299999967,RandomForestRegressor,27
+Western Asia,2016-01-28,sales,1425.7217249999972,RandomForestRegressor,28
+Western Europe,2016-01-01,sales,1878.3427125000019,RandomForestRegressor,1
+Western Europe,2016-01-02,sales,1882.501717500004,RandomForestRegressor,2
+Western Europe,2016-01-03,sales,1685.7112650000015,RandomForestRegressor,3
+Western Europe,2016-01-04,sales,325.6060837500005,RandomForestRegressor,4
+Western Europe,2016-01-05,sales,1899.9443362500026,RandomForestRegressor,5
+Western Europe,2016-01-06,sales,1478.0514862500008,RandomForestRegressor,6
+Western Europe,2016-01-07,sales,2339.1551700000036,RandomForestRegressor,7
+Western Europe,2016-01-08,sales,2344.111447500004,RandomForestRegressor,8
+Western Europe,2016-01-09,sales,2743.4290312500048,RandomForestRegressor,9
+Western Europe,2016-01-10,sales,1924.102766250001,RandomForestRegressor,10
+Western Europe,2016-01-11,sales,344.698908750001,RandomForestRegressor,11
+Western Europe,2016-01-12,sales,2613.861093750002,RandomForestRegressor,12
+Western Europe,2016-01-13,sales,1767.6840712500002,RandomForestRegressor,13
+Western Europe,2016-01-14,sales,1871.3222174999996,RandomForestRegressor,14
+Western Europe,2016-01-15,sales,1841.11905,RandomForestRegressor,15
+Western Europe,2016-01-16,sales,2062.888027500002,RandomForestRegressor,16
+Western Europe,2016-01-17,sales,2003.2377112500003,RandomForestRegressor,17
+Western Europe,2016-01-18,sales,481.60079249999995,RandomForestRegressor,18
+Western Europe,2016-01-19,sales,1778.4118425000013,RandomForestRegressor,19
+Western Europe,2016-01-20,sales,1901.1531600000023,RandomForestRegressor,20
+Western Europe,2016-01-21,sales,1804.036890000001,RandomForestRegressor,21
+Western Europe,2016-01-22,sales,1786.1052900000007,RandomForestRegressor,22
+Western Europe,2016-01-23,sales,2273.5180687499997,RandomForestRegressor,23
+Western Europe,2016-01-24,sales,1969.6360200000013,RandomForestRegressor,24
+Western Europe,2016-01-25,sales,409.23299625000004,RandomForestRegressor,25
+Western Europe,2016-01-26,sales,2176.188727500001,RandomForestRegressor,26
+Western Europe,2016-01-27,sales,2302.8134925000013,RandomForestRegressor,27
+Western Europe,2016-01-28,sales,2252.0330962499993,RandomForestRegressor,28
+Western US,2016-01-01,sales,3138.4501362500014,RandomForestRegressor,1
+Western US,2016-01-02,sales,2705.2352187499973,RandomForestRegressor,2
+Western US,2016-01-03,sales,2977.8553675000016,RandomForestRegressor,3
+Western US,2016-01-04,sales,838.2439612499993,RandomForestRegressor,4
+Western US,2016-01-05,sales,1398.5789399999996,RandomForestRegressor,5
+Western US,2016-01-06,sales,2020.1279425,RandomForestRegressor,6
+Western US,2016-01-07,sales,1647.9957400000012,RandomForestRegressor,7
+Western US,2016-01-08,sales,2873.913181249992,RandomForestRegressor,8
+Western US,2016-01-09,sales,1629.4404375000001,RandomForestRegressor,9
+Western US,2016-01-10,sales,2201.56632,RandomForestRegressor,10
+Western US,2016-01-11,sales,372.3449724999999,RandomForestRegressor,11
+Western US,2016-01-12,sales,1804.6193087499994,RandomForestRegressor,12
+Western US,2016-01-13,sales,1693.4844900000005,RandomForestRegressor,13
+Western US,2016-01-14,sales,1903.2390825000016,RandomForestRegressor,14
+Western US,2016-01-15,sales,3246.6635612500045,RandomForestRegressor,15
+Western US,2016-01-16,sales,2090.684808750002,RandomForestRegressor,16
+Western US,2016-01-17,sales,1871.6831437500016,RandomForestRegressor,17
+Western US,2016-01-18,sales,616.4390049999997,RandomForestRegressor,18
+Western US,2016-01-19,sales,2726.19586625,RandomForestRegressor,19
+Western US,2016-01-20,sales,2441.3438400000014,RandomForestRegressor,20
+Western US,2016-01-21,sales,2256.5343737500016,RandomForestRegressor,21
+Western US,2016-01-22,sales,3351.0423774999963,RandomForestRegressor,22
+Western US,2016-01-23,sales,3831.8695200000016,RandomForestRegressor,23
+Western US,2016-01-24,sales,3155.1053075000013,RandomForestRegressor,24
+Western US,2016-01-25,sales,2059.7474225000005,RandomForestRegressor,25
+Western US,2016-01-26,sales,4591.377987500007,RandomForestRegressor,26
+Western US,2016-01-27,sales,3708.459635000002,RandomForestRegressor,27
+Western US,2016-01-28,sales,3599.585296250005,RandomForestRegressor,28
